@@ -1,0 +1,15 @@
+Credit: Skylon
+---
+Rename to: Red
+Reclass to: Pokemon Trainer
+---
+Pikachu (M) @ Light Ball  
+Ability: Static  
+Level: 70  
+Shiny: Yes  
+EVs: 1 HP  
+Jolly Nature  
+- Volt Tackle  
+- Brick Break  
+- Iron Tail  
+- Quick Attack  

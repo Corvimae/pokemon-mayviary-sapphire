@@ -1,0 +1,23 @@
+Credit: PsychicChampion
+---
+Rename to: Jeff
+---
+Omastar
+Ability: Weak Armor
+Level: 21
+EVs: 232 HP / 8 Atk / 252 SpA / 8 Spe
+Rash Nature
+- Surf
+- Rock Slide
+- Rock Blast
+- Bubble Beam
+
+Kabutops
+Ability: Weak Armor
+Level: 21
+EVs: 252 Atk / 4 SpD / 248 Spe
+Jolly Nature
+- Aqua Jet
+- Aqua Tail
+- Rock Slide
+- Brick Break

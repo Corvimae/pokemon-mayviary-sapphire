@@ -1,0 +1,21 @@
+Credit: Cazenovia
+---
+Kirlia (F)  
+Ability: Synchronize  
+Level: 20  
+Timid Nature  
+IVs: 0 Atk  
+- Attract  
+- Draining Kiss  
+- Confusion  
+- Charge Beam  
+
+Buneary (F)  
+Ability: Limber  
+Level: 20  
+Happiness: 105  
+Adamant Nature  
+- Attract  
+- Frustration  
+- Rock Smash  
+- Fire Punch  

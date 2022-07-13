@@ -1,0 +1,23 @@
+Rename to: Peach
+Reclass to:
+Item 1: Sweet Heart
+Item 2: 
+Item 3:
+Item 4:
+---
+
+Daisy (Floette-Yellow) 
+Ability: Flower Veil
+Level: 14
+- Aromatherapy
+- Giga Drain
+- Seed Bomb
+- Petal Blizzard
+
+Isabelle (Lillipup) (F) @ Red Card
+Ability: Vital Spirit
+Level: 13
+- Play Rough
+- Toxic
+- Crunch
+- Roar

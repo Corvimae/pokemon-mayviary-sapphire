@@ -1,0 +1,51 @@
+Credit: PhoenixMelior
+---
+Rename to: Evil Nessa
+Item 1: Hyper Potion
+Item 2: Hyper Potion
+---
+Marshtomp (F) @ Rindo Berry
+Ability: Torrent
+Level: 34
+Adamant Nature
+- Stealth Rock
+- Earthquake
+- Waterfall
+- Brick Break
+
+Milotic (F) @ Leftovers
+Ability: Marvel Scale
+Level: 34
+Bold Nature
+- Scald
+- Ice Beam
+- Recover
+- Dragon Pulse
+
+Honchkrow (F) @ Sitrus Berry
+Ability: Moxie
+Level: 34
+Adamant Nature
+- Brave Bird
+- Night Slash
+- Sucker Punch
+- Return
+
+Roserade (F) @ Black Sludge
+Ability: Natural Cure
+Level: 34
+Shiny: Yes
+Modest Nature
+- Spikes
+- Sludge Bomb
+- Giga Drain
+- Sleep Powder
+
+Absol (F) @ Life Orb
+Ability: Super Luck
+Level: 34
+Adamant Nature
+- Pursuit
+- Night Slash
+- X-Scissor
+- Zen Headbutt

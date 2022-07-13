@@ -1,0 +1,57 @@
+Credit: Sparkle
+(Also 528 and 529)
+---
+Rename to: supgungeeguy
+Reclass to: Tuber
+---
+Aerodactyl @ Power Herb
+Ability: Unnerve
+Level: 59
+Adamant Nature
+- Sky Attack
+- Rock Slide
+- Earthquake
+- Stealth Rock
+
+Flareon @ Choice Band
+Ability: Flash Fire
+Level: 59
+Adamant Nature
+- Flare Blitz
+
+Venusaur @ Venusaurite
+Ability: Chlorophyll
+Level: 59
+Quiet Nature
+- Giga Drain
+- Sludge Bomb
+- Earthquake
+- Synthesis
+
+Lapras @ Chesto Berry
+Ability: Shell Armor
+Level: 59
+Jolly Nature
+- Dragon Dance
+- Rest
+- Waterfall
+- Ice Shard
+
+Regigigas @ Sitrus Berry
+Ability: Slow Start
+Level: 59
+Adamant Nature
+- Double Team
+- Earthquake
+- Return
+- Knock Off
+
+Lanturn @ Leftovers
+Ability: Volt Absorb
+Level: 59
+Modest Nature
+IVs: 0 Atk
+- Thunder Wave
+- Confuse Ray
+- Whirlpool
+- Substitute

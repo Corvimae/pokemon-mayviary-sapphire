@@ -1,0 +1,62 @@
+Credit:wretchedFiend
+---
+Rename to: ARRRRRRRRchie
+Reclass to:
+Item 1: Full Restore
+Item 2: Full Restore
+Item 3:
+Item 4:
+---
+Kyogre @ Assault Vest
+Ability: Drizzle
+Level: 63
+Modest Nature
+- Ancient Power
+- Ice Beam
+- Hydro Pump
+- Thunder
+
+Azumarill (M) @ Life Orb
+Ability: Huge Power
+Level: 63
+Adamant Nature
+- Aqua Jet
+- Brick Break
+- Play Rough
+- Ice Punch
+
+Seismitoad (M) @ Rindo Berry
+Ability: Swift Swim
+Level: 63
+Modest Nature
+- Hydro Pump
+- Sludge Bomb
+- Earth Power
+- Focus Blast
+
+Blastoise (M) @ Leftovers
+Ability: Rain Dish
+Level: 63
+Impish Nature
+- Yawn
+- Protect
+- Focus Punch
+- Aqua Tail
+
+Pangoro (M) @ Expert Belt
+Ability: Iron Fist
+Level: 63
+Brave Nature
+- Drain Punch
+- Fire Punch
+- Thunder Punch
+- Ice Punch
+
+Sharpedo (M) @ Sharpedonite
+Ability: Speed Boost
+Level: 64
+Adamant Nature
+- Waterfall
+- Ice Fang
+- Crunch
+- Zen Headbutt

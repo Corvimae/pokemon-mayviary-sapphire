@@ -1,0 +1,31 @@
+Credit: Corvimae
+---
+Item 1: X Attack
+Item 1: Hyper Potion
+---
+Sceptile (F) @ Choice Band
+Ability: Overgrow
+Level: 50
+Naive Nature
+- Earthquake
+- Leaf Blade
+- Outrage
+- X-Scissor
+
+Togekiss (F) @ Bright Powder
+Ability: Serene Grace
+Level: 50
+Modest Nature
+- Air Slash
+- Psychic
+- Roost
+- Flamethrower
+
+Latias (F) @ Soul Dew
+Ability: Levitate
+Level: 50
+Modest Nature
+- Ice Beam
+- Energy Ball
+- Mist Ball
+- Dragon Pulse

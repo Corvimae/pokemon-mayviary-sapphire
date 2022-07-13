@@ -1,0 +1,60 @@
+Credit: bageldotpng
+---
+Rename to: Olive
+---
+Ferrothorn @ Leftovers
+Ability: Iron Barbs
+Level: 90
+Relaxed Nature
+IVs: 0 Spe
+- Stealth Rock
+- Leech Seed
+- Power Whip
+- Gyro Ball
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+Level: 90
+Adamant Nature
+- Swords Dance
+- Earthquake
+- Brick Break
+- Roost
+
+Weavile
+Ability: Pickpocket
+Level: 90
+Jolly Nature
+- Swords Dance
+- Icicle Crash
+- Knock Off
+- Pursuit
+
+Rotom-Wash @ Life Orb
+Ability: Levitate
+Level: 90
+Timid Nature
+IVs: 0 Atk
+- Hydro Pump
+- Discharge
+- Dark Pulse
+- Volt Switch
+
+Volcarona @ Charti Berry
+Ability: Flame Body
+Level: 90
+Bold Nature
+IVs: 0 Atk
+- Quiver Dance
+- Roost
+- Fiery Dance
+- Bug Buzz
+
+Rayquaza-Mega @ Yache Berry
+Ability: Air Lock
+Level: 90
+Jolly Nature
+- Outrage
+- Dragon Ascent
+- Earthquake
+- V-create

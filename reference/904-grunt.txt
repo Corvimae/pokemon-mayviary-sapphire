@@ -1,0 +1,30 @@
+Credit: groucho
+Note: Southern Island doubles grunt
+---
+Spheal (F)
+Ability: Thick Fat
+Level: 43
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aurora Beam
+- Encore
+- Brine
+
+Luvdisc (F)
+Ability: Swift Swim
+Level: 43
+Quirky Nature
+IVs: 31 HP / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Sweet Kiss
+- Water Pulse
+- Attract
+- Take Down
+
+Marill (F) @ Wide Lens
+Ability: Huge Power
+Level: 43
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Play Rough
+- Aqua Tail
+- Double-Edge

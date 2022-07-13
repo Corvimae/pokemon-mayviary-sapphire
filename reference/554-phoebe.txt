@@ -1,0 +1,60 @@
+Credit: Skylon
+---
+Name: Sklon
+Class: Elite 4
+---
+Honchkrow (F) @ Life Orb
+Ability: Moxie
+Level: 79
+Jolly Nature
+- Sucker Punch
+- Brave Bird
+- Tailwind
+- Night Slash
+
+
+Empoleon (F) @ Wacan Berry
+Ability: Torrent
+Level: 79
+Modest Nature
+- Scald
+- Ice Beam
+- Flash Cannon
+- Stealth Rock
+
+
+Gliscor (F) @ Toxic Orb
+Ability: Poison Heal
+Level: 79
+Impish Nature
+- Earthquake
+- Protect
+- Rock Slide
+- Toxic
+
+Togekiss (F) @ Wide Lens
+Ability: Serene Grace
+Level: 79
+Timid Nature
+- Air Slash
+- Fire Blast
+- Thunder Wave
+- Ancient Power
+
+Magnezone @ Assault Vest
+Ability: Sturdy
+Level: 79
+Modest Nature
+- Volt Switch
+- Flash Cannon
+- Thunderbolt
+- Tri Attack
+
+Gallade @ Galladite
+Ability: Justified
+Level: 79
+Jolly Nature
+- Zen Headbutt
+- Ice Punch
+- Poison Jab
+- Brick Break

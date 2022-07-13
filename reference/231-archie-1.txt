@@ -1,0 +1,62 @@
+Credit: wretchedFiend
+---
+Rename to: ARRRRRRRRchie
+Reclass to:
+Item 1: Max Potion
+Item 2: Full Heal
+Item 3:
+Item 4:
+---
+Poliwrath (M) @ Assault Vest
+Ability: Water Absorb
+Level: 39
+Impish Nature
+- Poison Jab
+- Brick Break
+- Waterfall
+- Ice Punch
+
+Barbaracle (M) @ Scope Lens
+Ability: Sniper
+Level: 39
+Adamant Nature
+- Cross Chop
+- Night Slash
+- Shadow Claw
+- Stone Edge
+
+Swampert (M) @ Rindo Berry
+Ability: Torrent
+Level: 39
+Adamant Nature
+- Ice Punch
+- Waterfall
+- Yawn
+- Protect
+
+Carracosta (M) @ Rindo Berry
+Ability: Solid Rock
+Level: 39
+Modest Nature
+- Earth Power
+- Ice Beam
+- Surf
+- Ancient Power
+
+Crawdaunt (M) @ Life Orb
+Ability: Adaptability
+Level: 39
+Adamant Nature
+- Aqua Jet
+- Crunch
+- Waterfall
+- Crabhammer
+
+Sharpedo (M) @ Focus Sash
+Ability: Speed Boost
+Level: 40
+Adamant Nature
+- Waterfall
+- Ice Fang
+- Crunch
+- Zen Headbutt

@@ -1,0 +1,48 @@
+Credit: swc
+---
+Rename to: Brawl-y
+Reclass to:
+Item 1: Full Restore
+Item 2:
+Item 3:
+Item 4:
+---
+Wolf (Poochyena) (M)
+Ability: Quick Feet
+Level: 15
+EVs: 236 Def / 252 SpD
+Impish Nature
+- Crunch
+- Toxic
+- Fire Fang
+- Protect
+
+Falco (Staravia) (M) @ Rocky Helmet
+Ability: Intimidate
+Level: 16
+EVs: 12 HP / 252 Atk / 8 SpD / 236 Spe
+Jolly Nature
+- Steel Wing
+- Quick Attack
+- Tailwind
+- Protect
+
+Diddy Kong (Vigoroth) (M)
+Ability: Vital Spirit
+Level: 18
+EVs: 236 Atk / 16 SpD / 248 Spe
+Jolly Nature
+- Fire Punch
+- Hone Claws
+- Protect
+- Shadow Claw
+
+Meta Knight (Larvesta) (M) @ Choice Scarf
+Ability: Flame Body
+Level: 22
+EVs: 252 Atk / 252 Spe
+Jolly Nature
+- Flame Charge
+- Wild Charge
+- U-turn
+- Zen Headbutt

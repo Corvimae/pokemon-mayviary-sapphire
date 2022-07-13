@@ -1,0 +1,12 @@
+Credit: Sparkle
+(Also 675 and 676)
+---
+Rename to: supgungeeguy
+Reclass to: Tuber
+---
+Regigigas @ Quick Claw
+Ability: Slow Start
+Level: 1
+Timid Nature
+IVs: 0 Atk
+- Explosion

@@ -4,6 +4,6 @@ Rename to: Pokemon Breeder Bliss
 ---
 Blissey (x6)
 Ability: Serene Grace
-Level: 25
+Level: 60
 Hasty Nature
-- Tail Whip
+- Healing Wish

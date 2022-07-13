@@ -1,0 +1,40 @@
+Credit: Corvimae
+---
+Item 1: Hyper Potion
+Item 2: Hyper Potion
+---
+Latias (F) @ Soul Dew
+Ability: Levitate
+Level: 59
+Modest Nature
+- Ice Beam
+- Energy Ball
+- Psychic
+- Dragon Pulse
+
+Sceptile (F) @ Choice Band
+Ability: Overgrow
+Level: 59
+Naive Nature
+- Earthquake
+- Leaf Blade
+- Outrage
+- X-Scissor
+
+Togekiss (F) @ Bright Powder
+Ability: Serene Grace
+Level: 59
+Modest Nature
+- Air Slash
+- Psychic
+- Roost
+- Metronome
+
+Sylveon (F) @ Power Herb
+Ability: Pixilate
+Level: 59
+Modest Nature
+- Hyper Voice
+- Moonblast
+- Attract
+- Hyper Beam

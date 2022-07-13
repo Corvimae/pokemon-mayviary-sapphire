@@ -1,0 +1,26 @@
+Rename to: Zelda
+Reclass to:
+Item 1: Sweet Heart
+Item 2: 
+Item 3:
+Item 4:
+---
+
+Link (Honedge) (M)
+Ability: No Guard
+Level: 15
+IVs: 0 Spe
+- Protect
+- Swords Dance
+- Sacred Sword
+- Gyro Ball
+
+Ganon (Spoink) (M) @ Focus Sash
+Ability: Own Tempo
+Level: 15
+Shiny: Yes
+Happiness: 0
+- Frustration
+- Protect
+- Magic Coat
+- Zen Headbutt 

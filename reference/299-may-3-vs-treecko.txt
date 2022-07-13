@@ -1,0 +1,31 @@
+Credit: Corvimae
+---
+Item 1: Dire Hit
+Item 2: Hyper Potion
+---
+Blaziken (F) @ Razor Claw
+Ability: Speed Boost
+Level: 50
+Adamant Nature
+- Blaze Kick
+- Night Slash
+- Shadow Claw
+- Quick Attack
+
+Togekiss (F) @ Bright Powder
+Ability: Serene Grace
+Level: 50
+Modest Nature
+- Air Slash
+- Psychic
+- Roost
+- Metronome
+
+Latias (F) @ Soul Dew
+Ability: Levitate
+Level: 50
+Modest Nature
+- Ice Beam
+- Energy Ball
+- Mist Ball
+- Dragon Pulse

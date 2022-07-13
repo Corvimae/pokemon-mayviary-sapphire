@@ -1,0 +1,61 @@
+Credit: 99MnM99
+---
+Rename to: Bean Dad
+Reclass to: Allosexual
+Item 1: Potion
+Item 2: Full Heal
+Item 3: Super Potion
+Item 4: Hyper Potion
+---
+Ferroseed (F) @ Eviolite
+Ability: Iron Barbs
+Level: 42
+Bold Nature
+- Stealth Rock
+- Spikes
+- Leech Seed
+- Toxic
+
+Drifloon (F) @ Focus Sash
+Ability: Unburden
+Level: 42
+Hasty Nature
+- Shadow Ball
+- Will-O-Wisp
+- Explosion
+- Acrobatics
+
+Spheal (F) @ Eviolite
+Ability: Thick Fat
+Level: 42
+Timid Nature
+IVs: 0 Atk
+- Sheer Cold
+
+Goomy (F) @ Eviolite
+Ability: Sap Sipper
+Level: 42
+Modest Nature
+IVs: 0 Atk
+- Sludge Bomb
+- Thunderbolt
+- Dragon Breath
+- Muddy Water
+
+Pumpkaboo-Super (F) @ Eviolite
+Ability: Frisk
+Level: 42
+Impish Nature
+- Seed Bomb
+- Leech Seed
+- Synthesis
+- Rock Slide
+
+Sandshrew (F) @ Eviolite
+Ability: Sand Veil
+Level: 45
+Adamant Nature
+- Earthquake
+- Knock Off
+- Super Fang
+- Poison Jab

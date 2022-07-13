@@ -1,6 +1,7 @@
 Credit: PsychicChampion
 ---
 Rename to: Jeff
+Note: Museum fight 2
 ---
 Omastar
 Ability: Weak Armor

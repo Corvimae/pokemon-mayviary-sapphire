@@ -1,0 +1,48 @@
+Credit: bageldotpng
+---
+Rename to: Olive
+---
+Ferrothorn @ Leftovers
+Ability: Iron Barbs
+Level: 82
+Relaxed Nature
+- Stealth Rock
+- Leech Seed
+- Power Whip
+- Gyro Ball
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+Level: 82
+Jolly Nature
+- Swords Dance
+- Earthquake
+- Knock Off
+- Brick Break
+
+Weavile
+Ability: Pickpocket
+Level: 82
+Jolly Nature
+- Swords Dance
+- Icicle Crash
+- Knock Off
+- X-Scissor
+
+Rotom-Wash @ Life Orb
+Ability: Levitate
+Level: 82
+Timid Nature
+- Hydro Pump
+- Discharge
+- Dark Pulse
+- Volt Switch
+
+Lopunny @ Lopunnite
+Ability: Limber
+Level: 82
+Jolly Nature
+- Fake Out
+- Return
+- High Jump Kick
+- Thunder Punch

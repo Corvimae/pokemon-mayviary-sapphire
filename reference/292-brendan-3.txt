@@ -1,0 +1,58 @@
+Credit: Sparkle
+(Also 293 and 294)
+---
+Rename to: supgungeeguy
+Reclass to: Tuber
+---
+Golbat @ Choice Band
+Ability: Infiltrator
+Level: 49
+Adamant Nature
+- Brave Bird
+
+Omastar @ Focus Sash
+Ability: Swift Swim
+Level: 49
+Timid Nature
+IVs: 0 Atk
+- Surf
+- Ice Beam
+- Ancient Power
+- Earth Power
+
+Meganium @ Salac Berry
+Ability: Overgrow
+Level: 49
+Jolly Nature
+- Seed Bomb
+- Earthquake
+- Endure
+- Swords Dance
+
+Mawile @ Mawilite
+Ability: Intimidate
+Level: 49
+Adamant Nature
+- Iron Head
+- Brick Break
+- Play Rough
+- Sucker Punch
+
+Cradily @ Leftovers
+Ability: Storm Drain
+Level: 49
+Modest Nature
+IVs: 0 Atk
+- Giga Drain
+- Ancient Power
+- Recover
+- Sludge Bomb
+
+Lanturn @ Life Orb
+Ability: Volt Absorb
+Level: 49
+Modest Nature
+- Hydro Pump
+- Thunder
+- Ice Beam
+- Sucker Punch

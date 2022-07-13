@@ -1,0 +1,31 @@
+Credit: Corvimae
+---
+Item 1: Hyper Potion
+Item 2: Hyper Potion
+---
+Swampert (F) @ Rindo Berry
+Ability: Torrent
+Level: 30
+Adamant Nature
+- Earthquake
+- Bite
+- Power-Up Punch
+- Rock Slide
+
+Sylveon (F) @ Power Herb
+Ability: Pixilate
+Level: 30
+Modest Nature
+- Hyper Voice
+- Draining Kiss
+- Attract
+- Hyper Beam
+
+Togekiss (F) @ Bright Powder
+Ability: Serene Grace
+Level: 30
+Modest Nature
+- Air Slash
+- Psychic
+- Roost
+- Flamethrower

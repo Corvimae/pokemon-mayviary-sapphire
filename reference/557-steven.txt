@@ -1,0 +1,62 @@
+Credit: RobertaSwiRTA
+---
+Rename to: Steely Dan
+Reclass to: Champion
+Item 1: Full Restore
+Item 2: Full Restore
+Item 3: Full Restore
+Item 4: Full Restore
+---
+Magnezone @ Magnet
+Ability: Sturdy
+Level: 88
+Quiet Nature
+- Thunderbolt
+- Flash Cannon
+- Discharge
+- Light Screen
+----
+Klefki) (F) @ Air Balloon
+Ability: Prankster
+Level: 85
+Relaxed Nature
+- Psychic
+- Toxic
+- Play Rough
+- Flash Cannon
+----
+Excadrill (M)
+Ability: Sand Force
+Level: 85
+Adamant Nature
+- Earthquake
+- Sandstorm
+- Rock Slide
+- Iron Head
+----
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 85
+Brave Nature
+- Earthquake
+- Hyper Beam
+- Meteor Mash
+- Reflect
+----
+Ferrothorn (F)
+Ability: Iron Barbs
+Level: 85
+Relaxed Nature
+- Power Whip
+- Gyro Ball
+- Iron Head
+- Leech Seed
+----
+Klinklang
+Ability: Clear Body 
+Level: 85
+Impish Nature
+- Wild Charge
+- Iron Defense
+- Trick Room
+- Substitute 

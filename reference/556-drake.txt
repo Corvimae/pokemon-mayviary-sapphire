@@ -1,0 +1,64 @@
+Credit: Sheltiesci
+---
+Rename to: Trixie
+Reclass to: Good Dog
+Item 1: Full Restore
+Item 2: Full Restore
+Item 3: Full Restore
+Item 4: Full Restore
+---
+Mightyena (F) @ Life Orb
+Ability: Moxie
+Level: 80
+Adamant Nature
+- Sucker Punch
+- Crunch
+- Toxic
+- Play Rough
+
+Manectric-Mega (F) @ Manectite
+Ability: Static
+Level: 83
+Shiny: Yes
+Modest Nature
+- Volt Switch
+- Thunderbolt
+- Flamethrower
+- Hidden Power [Ice]
+
+Arcanine (F) @ Leftovers
+Ability: Intimidate
+Level: 80
+Impish Nature
+- Morning Sun
+- Will-O-Wisp
+- Extreme Speed
+- Flare Blitz
+
+Granbull (F) @ Muscle Band
+Ability: Intimidate
+Level: 80
+Jolly Nature
+- Close Combat
+- Play Rough
+- Earthquake
+- Fire Punch
+
+Furfrou (F) @ Bright Powder
+Ability: Fur Coat
+Level: 80
+Jolly Nature
+- U-turn
+- Return
+- Retaliate
+- Zen Headbutt
+
+Stoutland (F) @ Choice Band
+Ability: Intimidate
+Level: 80
+Adamant Nature
+IVs: 0 SpA
+- Return
+- Ice Fang
+- Superpower
+- Wild Charge

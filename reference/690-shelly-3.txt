@@ -1,0 +1,41 @@
+Credit: PhoenixMelior
+---
+Rename to: Evil Nessa
+Item 1: Hyper Potion
+Item 2: Hyper Potion
+---
+Milotic (F) @ Flame Orb
+Ability: Marvel Scale
+Level: 48
+Bold Nature
+- Scald
+- Ice Beam
+- Recover
+- Toxic
+
+Honchkrow (F) @ Life Orb
+Ability: Moxie
+Level: 48
+Adamant Nature
+- Brave Bird
+- Night Slash
+- Sucker Punch
+- Return
+
+Manaphy @ Leftovers
+Ability: Hydration
+Level: 48
+Modest Nature
+- Tail Glow
+- Surf
+- Ice Beam
+- Energy Ball
+
+Absol (F) @ Absolite
+Ability: Super Luck
+Level: 48
+Adamant Nature
+- Swords Dance
+- Knock Off
+- Sucker Punch
+- Play Rough

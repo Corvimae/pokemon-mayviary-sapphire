@@ -1,0 +1,32 @@
+Credit: Corvimae
+---
+Item 1: Hyper Potion
+Item 2: Hyper Potion
+---
+Grovyle (F) @ Heat Rock
+Ability: Overgrow
+Level: 30
+Naive Nature
+- Toxic
+- Solar Beam
+- Sunny Day
+- Synthesis
+
+Sylveon (F) @ Power Herb
+Ability: Pixilate
+Level: 30
+Modest Nature
+- Hyper Voice
+- Draining Kiss
+- Attract
+- Hyper Beam
+
+Togekiss (F) @ Bright Powder
+Ability: Serene Grace
+Level: 30
+Modest Nature
+- Air Slash
+- Psychic
+- Roost
+- Flamethrower
+

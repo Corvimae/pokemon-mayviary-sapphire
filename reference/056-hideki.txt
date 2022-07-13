@@ -1,0 +1,27 @@
+Credit: swc
+---
+Rename to: Ryu
+Reclass to:
+Item 1: Hyper Potion
+Item 2:
+Item 3:
+Item 4:
+---
+
+Ken (Machop) (M) @ Muscle Band
+Ability: No Guard
+Level: 15
+Shiny: Yes
+- Flamethrower
+- Low Kick
+- Rolling Kick
+- Bullet Punch
+
+Guile (Machoke) (M)
+Ability: Guts
+Level: 17
+Shiny: Yes
+- Brick Break
+- Thunder Punch
+- Focus Blast
+- Bullet Punch

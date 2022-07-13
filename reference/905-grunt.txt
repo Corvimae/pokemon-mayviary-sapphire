@@ -1,0 +1,24 @@
+Credit: groucho
+Note: Mossdeep Space Center double
+---
+Skuntank (F)
+Ability: Stench
+Level: 76
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+Bold Nature
+- Memento
+- Screech
+
+Skuntank (F)
+Ability: Stench
+Level: 76
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+Adamant Nature
+- Explosion
+
+Skuntank (F) @ Choice Band
+Ability: Stench
+Level: 76
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Explosion 

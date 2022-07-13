@@ -1,0 +1,19 @@
+Credit: Corvimae
+(Also 907 and 908)
+---
+Drifblim (F) @ Leftovers (x5)
+Level: 75
+Ability: Prankster
+- Disable
+- Thunder Wave
+- Minimize
+- Stockpile
+
+Latias (F) @ Soul Dew
+Ability: Levitate
+Level: 75
+Modest Nature
+- Ice Beam
+- Energy Ball
+- Psychic
+- Dragon Pulse

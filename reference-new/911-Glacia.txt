@@ -1,0 +1,59 @@
+Credit: EpicYoshiMaster
+---
+Name: Yoshi
+Class: 196-Elite Four
+---
+Pokemon: 6
+
+Chatot @ Normal Gem  
+Ability: Big Pecks  
+EVs: 1 HP  
+Timid Nature  
+- Boomburst  
+- Tailwind  
+- Nasty Plot  
+- Heat Wave  
+
+Wigglytuff @ Enigma Berry  
+Ability: Competitive  
+EVs: 1 HP  
+Modest Nature  
+- Dazzling Gleam  
+- Flamethrower  
+- Psychic  
+- Thunder Wave  
+
+Dusknoir @ Sitrus Berry  
+Ability: Pressure  
+Quiet Nature  
+- Shadow Ball  
+- Brick Break  
+- Destiny Bond  
+- Calm Mind  
+
+Dugtrio @ Focus Sash  
+Ability: Arena Trap  
+EVs: 1 HP  
+Hasty Nature  
+- Earthquake  
+- Stone Edge  
+- Sucker Punch  
+- Sludge Wave  
+
+Toxicroak @ Black Sludge  
+Ability: Dry Skin  
+EVs: 1 HP  
+Careful Nature  
+- Drain Punch  
+- Knock Off  
+- Protect  
+- Toxic  
+
+Sceptile @ Sceptilite  
+Ability: Overgrow  
+EVs: 1 HP  
+Timid Nature  
+- Giga Drain  
+- Dragon Pulse  
+- Focus Blast  
+- Grass Whistle

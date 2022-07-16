@@ -1,4 +1,4 @@
-[Begin] Importing 5 Trainer Files!
+[Begin] Importing 7 Trainer Files!
 
 How to navigate this file:
 Ctrl + F and search for the following important tags
@@ -34,10 +34,22 @@ Ctrl + F and search for the following important tags
 	
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\086-Neal.txt
 
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\555-Glacia.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Yoshi") while reading the following line
+	Name: Yoshi
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\555-Glacia.txt
+
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\563-Brawly.txt
 	[Manual]: Found Name command (Trainer should be renamed to "Brawl-y") while reading the following line
 	Name: Brawl-y
 	
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\563-Brawly.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\911-Glacia.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Yoshi") while reading the following line
+	Name: Yoshi
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\911-Glacia.txt
 
 [End] Finished importing all Trainer Files!

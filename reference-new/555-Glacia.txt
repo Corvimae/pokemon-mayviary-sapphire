@@ -1,0 +1,62 @@
+Credit: EpicYoshiMaster
+---
+Name: Yoshi
+Class: 196-Elite Four
+---
+Pokemon: 6
+
+Chatot @ Normal Gem  
+Ability: Big Pecks  
+Level: 79  
+EVs: 1 HP  
+Timid Nature  
+- Boomburst  
+- Tailwind  
+- Nasty Plot  
+- Heat Wave  
+
+Bidoof @ Wide Lens  
+Ability: Unaware  
+Level: 79  
+EVs: 1 HP  
+Adamant Nature  
+- Rollout  
+
+Wigglytuff @ Enigma Berry  
+Ability: Competitive  
+Level: 79  
+EVs: 1 HP  
+Modest Nature  
+- Dazzling Gleam  
+- Psychic  
+- Flamethrower  
+- Toxic  
+
+Croagunk @ Black Sludge  
+Ability: Dry Skin  
+Level: 79  
+EVs: 1 HP  
+Mild Nature  
+- Sludge Wave  
+- Fake Out  
+- Focus Blast  
+- Super Fang  
+
+Loudred @ Chople Berry  
+Ability: Soundproof  
+Level: 79  
+Modest Nature  
+- Hyper Voice  
+- Shadow Ball  
+- Fake Tears  
+- Counter  
+
+Grovyle @ Leftovers  
+Ability: Overgrow  
+Level: 79  
+EVs: 1 HP  
+Hasty Nature  
+- Giga Drain  
+- Leech Seed  
+- Quick Attack  
+- Drain Punch

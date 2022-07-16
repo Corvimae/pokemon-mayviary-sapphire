@@ -1,0 +1,27 @@
+Credit: Fortunate
+---
+Name: Neil
+Class: 148-Ace Trainer
+Item 1:
+Item 2: 
+Item 3: 
+Item 4: 
+---
+Pokemon: 2
+Pikachu @ Focus Sash  
+Ability: Static  
+Level: 28  
+Timid Nature
+- Thunderbolt  
+- Extreme Speed  
+- Reflect  
+- Detect  
+
+Quilava  
+Ability: Blaze  
+Level: 28  
+Quiet Nature  
+- Flame Charge  
+- Flamethrower  
+- Substitute  
+- Rest  

@@ -1,0 +1,46 @@
+Credit: swc19
+---
+Name: Brawl-y
+Class: 201-Leader
+Item 1: Full Restore
+Item 2: 
+Item 3: 
+Item 4: 
+---
+Pokemon: 4
+
+Poochyena (M)  
+Ability: Quick Feet  
+Level: 15  
+Impish Nature  
+- Crunch  
+- Toxic  
+- Fire Fang  
+- Protect  
+
+Staravia (M) @ Rocky Helmet  
+Ability: Intimidate  
+Level: 16  
+Jolly Nature  
+- Steel Wing  
+- Quick Attack  
+- Tailwind  
+- Protect  
+
+Vigoroth (M)  
+Ability: Vital Spirit  
+Level: 18  
+Jolly Nature  
+- Fire Punch  
+- Hone Claws  
+- Protect  
+- Shadow Claw  
+
+Larvesta (M) @ Choice Scarf  
+Ability: Flame Body  
+Level: 22  
+Jolly Nature  
+- Flame Charge  
+- Wild Charge  
+- U-turn  
+- Zen Headbutt  

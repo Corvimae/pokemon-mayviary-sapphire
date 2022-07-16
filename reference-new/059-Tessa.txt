@@ -1,0 +1,26 @@
+Credit: swc19
+---
+Name: Peach
+Class: 147-Battle Girl
+Item 1: Sweet Heart
+Item 2: 
+Item 3: 
+Item 4: 
+---
+Pokemon: 2
+
+Floette-Yellow
+Ability: Flower Veil
+Level: 14
+- Aromatherapy
+- Giga Drain
+- Seed Bomb
+- Petal Blizzard
+
+Lillipup (F) @ Red Card
+Ability: Vital Spirit
+Level: 13
+- Play Rough
+- Toxic
+- Crunch
+- Roar

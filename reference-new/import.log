@@ -1,0 +1,43 @@
+[Begin] Importing 5 Trainer Files!
+
+How to navigate this file:
+Ctrl + F and search for the following important tags
+[Manual]: An entry in this file was found that can't be automatically parsed
+[WARNING]: An entry was unable to be recognized or was formatted incorrectly, but this file could continue processing.
+[ERROR]: A significant problem prevented further processing of this file.
+
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\056-Hideki.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Ryu") while reading the following line
+	Name: Ryu
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\056-Hideki.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\059-Tessa.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Peach") while reading the following line
+	Name: Peach
+	
+	[Manual]: During PokePaste, found Pokemon with a Form "Floette-Yellow" while reading the following line
+	Floette-Yellow
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\059-Tessa.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\060-Laura.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Zelda") while reading the following line
+	Name: Zelda
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\060-Laura.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\086-Neal.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Neil") while reading the following line
+	Name: Neil
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\086-Neal.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\563-Brawly.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Brawl-y") while reading the following line
+	Name: Brawl-y
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\563-Brawly.txt
+
+[End] Finished importing all Trainer Files!

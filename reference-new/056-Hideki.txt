@@ -1,0 +1,26 @@
+Credit: swc19
+---
+Name: Ryu
+Class: 146-Black Belt
+Item 1: Hyper Potion
+Item 2: 
+Item 3: 
+Item 4: 
+---
+Pokemon: 2
+
+Machop (M) @ Muscle Band
+Ability: No Guard
+Level: 15
+- Flamethrower
+- Low Kick
+- Rolling Kick
+- Bullet Punch
+
+Machoke (M)
+Ability: Guts
+Level: 17
+- Brick Break
+- Thunder Punch
+- Focus Blast
+- Bullet Punch

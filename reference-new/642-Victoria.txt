@@ -1,0 +1,20 @@
+Credit: PhoenixMelior
+---
+Name: Sokka
+Class: 148-Ace Trainer
+Item 1:
+Item 2:
+Item 3:
+Item 4:
+---
+Pokemon: 1
+
+Lunatone @ Leftovers  
+Ability: Levitate  
+Level: 25  
+Modest Nature  
+IVs: 24 HP / 0 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
+- Psychic  
+- Ice Beam  
+- Moonblast  
+- Nasty Plot

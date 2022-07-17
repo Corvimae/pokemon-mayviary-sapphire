@@ -1,0 +1,38 @@
+Credit: PhoenixMelior
+---
+Name: Korra
+Class: 139-Swimmer
+Item 1:
+Item 2:
+Item 3:
+Item 4:
+---
+Pokemon: 3
+
+Spinda  
+Ability: Own Tempo  
+Level: 23  
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
+- Feint Attack  
+- Psybeam  
+- Dizzy Punch  
+- Shadow Ball  
+
+Teddiursa  
+Ability: Quick Feet  
+Level: 23  
+Adamant Nature  
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
+- Fury Swipes  
+- Aerial Ace  
+- Shadow Claw  
+- Brick Break  
+
+Cubchoo  
+Ability: Rattled  
+Level: 23  
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
+- Fury Swipes  
+- Icy Wind
+- Slash
+- Dig 

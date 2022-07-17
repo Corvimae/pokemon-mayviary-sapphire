@@ -1,0 +1,14 @@
+Credit: PhoenixMelior
+---
+Name: Grunt
+---
+Pokemon: 1
+
+Politoed (M) @ Damp Rock
+Ability: Drizzle
+Level: 34
+Bold Nature
+- Swagger
+- Hypnosis
+- Bubble Beam
+- Helping Hand

@@ -1,0 +1,21 @@
+﻿Credit: 99MnM99
+---
+Name: Garbanzo
+Class: 149-Ace Trainer
+Item 1: X Defense
+Item 2:
+Item 3:
+Item 4:
+---
+Pokemon: 1
+
+
+Munna  
+Ability: Synchronize  
+Level: 42  
+EVs: 252 HP / 4 Def / 248 SpA  
+Quiet Nature  
+- Dazzling Gleam  
+- Rock Slide  
+- Moonlight  
+- Psychic

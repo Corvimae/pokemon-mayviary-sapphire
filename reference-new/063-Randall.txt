@@ -1,0 +1,21 @@
+﻿Credit: 99MnM99
+---
+Name: Kidney
+Class: 148-Ace Trainer
+Item 1: X Speed
+Item 2:
+Item 3:
+Item 4:
+---
+Pokemon: 1
+
+
+Koffing (F)  
+Ability: Levitate  
+Level: 42  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+- Sludge Bomb  
+- Will-O-Wisp  
+- Thunder  
+- Explosion

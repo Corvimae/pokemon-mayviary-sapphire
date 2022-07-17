@@ -1,0 +1,33 @@
+﻿Credit: 99MnM99
+---
+Name: Nick & MnM
+Class: 223-Brains & Brawn
+Item 1:
+Item 2:
+Item 3:
+Item 4:
+---
+Pokemon: 2
+
+
+Serperior (M)  
+Ability: Overgrow  
+Level: 52  
+EVs: 248 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Coil  
+- Aqua Tail  
+- Iron Tail  
+- Leaf Blade  
+
+
+Phanpy (F) @ Eviolite  
+Ability: Pickup  
+Level: 52  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Hyper Voice  
+- Counter  
+- Endeavor

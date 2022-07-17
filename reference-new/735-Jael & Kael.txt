@@ -1,0 +1,34 @@
+﻿Credit: 99MnM99
+---
+Name: Nick & MnM
+Class: 223-Brains & Brawn
+Item 1:
+Item 2:
+Item 3:
+Item 4:
+---
+Pokemon: 2
+
+
+Serperior (M)  
+Ability: Contrary  
+Level: 69  
+EVs: 252 SpA / 4 SpD / 248 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Giga Drain  
+- Solar Beam  
+- Glare  
+- Synthesis  
+
+
+Phanpy (F) @ Heat Rock  
+Ability: Pickup  
+Level: 69  
+EVs: 248 HP / 8 Atk / 252 Def  
+Impish Nature  
+IVs: 0 Atk  
+- Sunny Day  
+- Protect  
+- Substitute  
+- Fissure

@@ -1,0 +1,22 @@
+﻿Credit: 99MnM99
+---
+Name: Pinto
+Class: 148-Ace Trainer
+Item 1: Guard Spec.
+Item 2:
+Item 3:
+Item 4:
+---
+Pokemon: 1
+
+
+Voltorb  
+Ability: Soundproof  
+Level: 42  
+EVs: 248 SpA / 8 SpD / 248 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Discharge  
+- Foul Play  
+- Signal Beam  
+- Mirror Coat

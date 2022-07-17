@@ -1,4 +1,4 @@
-[Begin] Importing 10 Trainer Files!
+[Begin] Importing 25 Trainer Files!
 
 How to navigate this file:
 Ctrl + F and search for the following important tags
@@ -28,6 +28,48 @@ Ctrl + F and search for the following important tags
 	
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\060-Laura.txt
 
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\063-Randall.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Kidney") while reading the following line
+	Name: Kidney
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\063-Randall.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\064-Parker.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Pinto") while reading the following line
+	Name: Pinto
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\064-Parker.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\065-George.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Fava") while reading the following line
+	Name: Fava
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\065-George.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\066-Berke.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Mung") while reading the following line
+	Name: Mung
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\066-Berke.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\067-Mary.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Soy") while reading the following line
+	Name: Soy
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\067-Mary.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\068-Lori.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Garbanzo") while reading the following line
+	Name: Garbanzo
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\068-Lori.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\069-Jody.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Jelly") while reading the following line
+	Name: Jelly
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\069-Jody.txt
+
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\086-Neal.txt
 	[Manual]: Found Name command (Trainer should be renamed to "Neil") while reading the following line
 	Name: Neil
@@ -45,6 +87,15 @@ Ctrl + F and search for the following important tags
 	Name: ARRRRRRRRRchie
 	
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\231-Archie.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\553-Sidney.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Sidney") while reading the following line
+	Name: Sidney
+	
+	[Manual]: During PokePaste, found Pokemon with a Form "Gourgeist-Super" while reading the following line
+	Gourgeist-Super
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\553-Sidney.txt
 
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\555-Glacia.txt
 	[Manual]: Found Name command (Trainer should be renamed to "Yoshi") while reading the following line
@@ -66,6 +117,54 @@ Ctrl + F and search for the following important tags
 	Rotom-Wash @ Wide Lens  
 	
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\567-Wattson.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\570-Norman.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Bean Dad") while reading the following line
+	Name: Bean Dad
+	
+	[Manual]: During PokePaste, found Pokemon with a Form "Pumpkaboo-Super" while reading the following line
+	Pumpkaboo-Super (F) @ Eviolite  
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\570-Norman.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\731-Jael & Kael.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Nick & MnM") while reading the following line
+	Name: Nick & MnM
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\731-Jael & Kael.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\733-Jael & Kael.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Nick & MnM") while reading the following line
+	Name: Nick & MnM
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\733-Jael & Kael.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\734-Jael & Kael.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Nick & MnM") while reading the following line
+	Name: Nick & MnM
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\734-Jael & Kael.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\735-Jael & Kael.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Nick & MnM") while reading the following line
+	Name: Nick & MnM
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\735-Jael & Kael.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\736-Jael & Kael.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Nick & MnM") while reading the following line
+	Name: Nick & MnM
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\736-Jael & Kael.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\909-Sidney.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Sidney") while reading the following line
+	Name: Sidney
+	
+	[Manual]: During PokePaste, found Pokemon with a Form "Gourgeist-Super" while reading the following line
+	Gourgeist-Super  
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\909-Sidney.txt
 
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\911-Glacia.txt
 	[Manual]: Found Name command (Trainer should be renamed to "Yoshi") while reading the following line

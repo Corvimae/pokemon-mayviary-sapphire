@@ -1,0 +1,33 @@
+﻿Credit: 99MnM99
+---
+Name: Nick & MnM
+Class: 223-Brains & Brawn
+Item 1:
+Item 2:
+Item 3:
+Item 4:
+---
+Pokemon: 2
+
+
+Serperior (M) @ Leftovers  
+Ability: Contrary  
+Level: 79  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Giga Drain  
+- Leaf Storm  
+- Glare  
+- Leech Seed  
+
+
+Donphan (F)  
+Ability: Sturdy  
+Level: 79  
+EVs: 252 HP / 248 Atk / 4 SpD / 4 Spe  
+Adamant Nature  
+- Earthquake  
+- Fire Fang  
+- Thunder Fang  
+- Ice Shard

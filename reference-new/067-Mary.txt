@@ -1,0 +1,21 @@
+﻿Credit: 99MnM99
+---
+Name: Soy
+Class: 149-Ace Trainer
+Item 1: X Accuracy
+Item 2:
+Item 3:
+Item 4:
+---
+Pokemon: 1
+
+
+Jigglypuff (F)  
+Ability: Cute Charm  
+Level: 42  
+EVs: 252 HP / 252 Atk / 4 SpA  
+Lonely Nature  
+- Dazzling Gleam  
+- Drain Punch  
+- Body Slam  
+- Fire Blast

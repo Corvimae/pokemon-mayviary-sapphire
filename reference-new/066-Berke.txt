@@ -1,0 +1,21 @@
+﻿Credit: 99MnM99
+---
+Name: Mung
+Class: 148-Ace Trainer
+Item 1:Dire Hit
+Item 2:
+Item 3:
+Item 4:
+---
+Pokemon: 1
+
+
+Shelgon (F)  
+Ability: Rock Head  
+Level: 42  
+Modest Nature  
+IVs: 0 Atk  
+- Dragon Breath  
+- Hydro Pump  
+- Fire Blast  
+- Mud-Slap

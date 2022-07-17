@@ -1,0 +1,71 @@
+Credit: Gymprincess99
+---
+Name: Sidney
+Class: 273-Elite Four
+Item 1: Full Restore
+Item 2: Full Restore
+---
+Pokemon: 6
+
+Gourgeist-Super  
+Ability: Frisk  
+Shiny: Yes  
+EVs: 56 HP / 252 Atk / 200 SpD  
+Naughty Nature  
+IVs: 0 Spe  
+- Disable  
+- Destiny Bond  
+- Gyro Ball  
+- Phantom Force
+
+Whimsicott (F) @ Focus Sash  
+Ability: Prankster  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Tailwind  
+- Energy Ball  
+- Fake Tears  
+- Moonblast  
+
+Ludicolo @ Coba Berry  
+Ability: Swift Swim  
+Shiny: Yes  
+EVs: 56 Def / 252 SpA / 200 Spe  
+Timid Nature  
+- Rain Dance  
+- Fake Out  
+- Focus Blast  
+- Hydro Pump  
+
+Breloom  
+Ability: Technician  
+Shiny: Yes  
+EVs: 252 HP / 56 SpD / 200 Spe  
+Careful Nature  
+- Bullet Seed  
+- Power-Up Punch  
+- Rock Tomb  
+- Mach Punch  
+
+Amoonguss  
+Ability: Regenerator  
+Shiny: Yes  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Spore  
+- Sludge Bomb  
+- Energy Ball  
+- Protect  
+
+Venusaur @ Venusaurite  
+Ability: Overgrow  
+EVs: 56 HP / 252 SpA / 200 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Energy Ball  
+- Sludge Bomb  
+- Protect  

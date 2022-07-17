@@ -1,0 +1,33 @@
+﻿Credit: 99MnM99
+---
+Name: Nick & MnM
+Class: 223-Brains & Brawn
+Item 1:
+Item 2:
+Item 3:
+Item 4:
+---
+Pokemon: 2
+
+
+Serperior (M)  
+Ability: Contrary  
+Level: 46  
+EVs: 244 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leaf Storm  
+- Dragon Pulse  
+- Leech Seed  
+- Protect  
+
+
+Phanpy (F) @ Eviolite  
+Ability: Pickup  
+Level: 46  
+EVs: 252 HP / 252 Atk  
+Adamant Nature  
+- Earthquake  
+- Play Rough  
+- Rock Slide  
+- Ice Shard

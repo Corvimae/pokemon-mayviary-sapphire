@@ -1,0 +1,15 @@
+Credit: Skylon
+---
+Name: Janice
+Class: 131-Lass
+---
+Pokemon: 1
+
+Marill @ Life Orb
+Ability: Huge Power
+Level: 15
+Brave Nature
+- Body Slam
+- Water Gun
+- Defense Curl
+- Rollout

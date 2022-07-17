@@ -1,0 +1,15 @@
+Credit: Skylon
+---
+Name: Eric
+Class: 156-Hiker
+---
+Pokemon: 1
+
+Golem (M) @ Rindo Berry
+Ability: Rock Head
+Level: 37
+Adamant Nature
+- Bulldoze
+- Rock Blast
+- Fire Punch
+- Thunder Punch

@@ -1,0 +1,24 @@
+Credit: Skylon
+---
+Name: Rain
+Class: 137-Team Aqua
+---
+Pokemon: 2
+
+Politoed @ Damp Rock
+Ability: Drizzle
+Level: 42
+Bold Nature
+- Ice Beam
+- Scald
+- Toxic
+- Counter
+
+Seismitoad
+Ability: Swift Swim
+Level: 42
+Modest Nature
+- Sludge Wave
+- Earth Power
+- Surf
+- Hydro Pump

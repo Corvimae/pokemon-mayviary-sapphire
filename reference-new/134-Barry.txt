@@ -1,0 +1,15 @@
+Credit: Skylon
+---
+Name: Barry
+Class: 128-Pokémon Trainer
+---
+Pokemon: 1
+
+Empoleon @ Expert Belt
+Ability: Defiant
+Level: 58
+Brave Nature
+- Brine
+- Metal Claw
+- Aerial Ace
+- Shadow Claw

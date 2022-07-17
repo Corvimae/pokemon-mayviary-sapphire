@@ -1,0 +1,24 @@
+Credit: Skylon
+---
+Name: Brianna
+Class: 150-Lady
+---
+Pokemon: 2
+
+Gastrodon-East @ Rindo Berry
+Ability: Storm Drain
+Level: 61
+Modest Nature
+- Surf
+- Ice Beam
+- Earth Power
+- Yawn
+
+Gastrodon-East (Gastrodon)
+Ability: Storm Drain
+Level: 61
+Modest Nature
+- Surf
+- Ice Beam
+- Earth Power
+- Yawn

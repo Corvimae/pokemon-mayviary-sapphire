@@ -1,0 +1,16 @@
+Credit: Skylon
+---
+Name: Ditto
+Class: 146-Black Belt
+---
+Pokemon: 2
+
+Ditto
+Ability: Imposter
+Level: 27
+- Transform
+
+Ditto
+Ability: Imposter
+Level: 27
+- Transform

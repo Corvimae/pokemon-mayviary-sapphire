@@ -1,0 +1,24 @@
+Credit: Skylon
+---
+Name: Erika
+Class: 132-Aroma Lady
+---
+Pokemon: 2
+
+Bellossom
+Ability: Chlorophyll
+Level: 39
+Modest Nature
+- Dazzling Gleam
+- Leech Seed
+- Giga Drain
+- Sleep Powder
+
+Vileplume @ Black Sludge
+Ability: Chlorophyll
+Level: 39
+Modest Nature
+- Dazzling Gleam
+- Giga Drain
+- Leech Seed
+- Sludge Bomb

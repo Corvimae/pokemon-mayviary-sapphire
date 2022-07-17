@@ -1,0 +1,15 @@
+Credit: Skylon
+---
+Name: Sandy
+Class: 137-Team Aqua
+---
+Pokemon: 1
+
+Hippowdon @ Leftovers
+Ability: Sand Stream
+Level: 45
+Impish Nature
+- Earthquake
+- Thunder Fang
+- Curse
+- Slack Off

@@ -1,0 +1,33 @@
+Credit: Skylon
+---
+Name: Karen
+Class: 136-Schoolkid
+---
+Pokemon: 3
+
+Dewgong
+Ability: Thick Fat
+Level: 70
+Brave Nature
+- Ice Beam
+- Fake Out
+- Surf
+- Ice Shard
+
+Exploud
+Ability: Scrappy
+Level: 70
+Modest Nature
+- Boomburst
+- Fire Blast
+- Surf
+- Extrasensory
+
+Breloom @ Toxic Orb
+Ability: Poison Heal
+Level: 70
+Impish Nature
+- Leech Seed
+- Drain Punch
+- Seed Bomb
+- Spore

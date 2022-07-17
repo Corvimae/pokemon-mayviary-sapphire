@@ -1,0 +1,24 @@
+Credit: Skylon
+---
+Name: Karen
+Class: 136-Schoolkid
+---
+Pokemon: 2
+
+Exploud
+Ability: Scrappy
+Level: 46
+Modest Nature
+- Boomburst
+- Fire Blast
+- Surf
+- Extrasensory
+
+Breloom @ Toxic Orb
+Ability: Poison Heal
+Level: 46
+Adamant Nature
+- Leech Seed
+- Drain Punch
+- Seed Bomb
+- Thunder Punch

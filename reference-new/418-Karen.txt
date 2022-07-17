@@ -1,0 +1,24 @@
+Credit: Skylon
+---
+Name: Karen
+Class: 136-Schoolkid
+---
+Pokemon: 2
+
+Loudred
+Ability: Soundproof
+Level: 36
+Modest Nature
+- Hyper Voice
+- Shadow Ball
+- Shock Wave
+- Fake Tears
+
+Breloom @ Toxic Orb
+Ability: Poison Heal
+Level: 36
+Adamant Nature
+- Leech Seed
+- Drain Punch
+- Seed Bomb
+- Thunder Punch

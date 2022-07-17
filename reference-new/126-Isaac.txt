@@ -1,0 +1,63 @@
+Credit: Skylon
+---
+Name: DaVinki
+Class: 152-Pokémon Breeder
+---
+Pokemon: 6
+
+Smeargle
+Ability: Moody
+Level: 25
+Shiny: Yes
+EVs: 1 HP
+Jolly Nature
+- Dark Void
+- Screech
+- Foul Play
+
+Smeargle @ Chople Berry
+Ability: Moody
+Level: 25
+EVs: 1 HP
+Jolly Nature
+- Dark Void
+- Screech
+- Foul Play
+
+Smeargle @ Focus Sash
+Ability: Moody
+Level: 25
+Shiny: Yes
+EVs: 1 HP
+Jolly Nature
+- Dark Void
+- Screech
+- Foul Play
+
+Smeargle
+Ability: Moody
+Level: 25
+EVs: 1 HP
+Jolly Nature
+- Dark Void
+- Foul Play
+- Screech
+
+Smeargle
+Ability: Moody
+Level: 25
+Shiny: Yes
+EVs: 1 HP
+Jolly Nature
+- Dark Void
+- Screech
+- Foul Play
+
+Smeargle
+Ability: Moody
+Level: 25
+EVs: 1 HP
+Jolly Nature
+- Dark Void
+- Screech
+- Foul Play

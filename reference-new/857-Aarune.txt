@@ -1,0 +1,12 @@
+Credit: Skylon
+---
+Name: Aarune
+Class: 236-Secret Base Expert
+---
+Pokemon: 1
+
+Magikarp @ Normal Gem
+Ability: Normalize
+Level: 79
+Adamant Nature
+- Secret Power

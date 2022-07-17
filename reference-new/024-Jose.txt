@@ -1,0 +1,32 @@
+Credit: Skylon
+---
+Name: Jose
+Class: 130-Bug Catcher
+---
+Pokemon: 3
+
+Nincada
+Ability: Compound Eyes
+Level: 10
+Adamant Nature
+- Harden
+- Hone Claws
+- Bug Bite
+- Sand Attack
+
+Dustox @ Black Sludge
+Ability: Shield Dust
+Level: 10
+- Poison Sting
+- Bug Bite
+- Gust
+- Tailwind
+
+Beautifly
+Ability: Rivalry
+Level: 10
+Modest Nature
+- Gust
+- Signal Beam
+- Harden
+- String Shot

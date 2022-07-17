@@ -1,0 +1,31 @@
+Credit: grouchobarx
+---
+Name: Grouch
+Class: 181-Team Aqua
+---
+Pokemon: 3
+
+Spheal (F)
+Ability: Thick Fat
+Level: 43
+Modest Nature
+- Aurora Beam
+- Encore
+- Brine
+
+Luvdisc (F)
+Ability: Swift Swim
+Level: 43
+Quirky Nature
+- Sweet Kiss
+- Water Pulse
+- Attract
+- Take Down
+
+Marill (F) @ Wide Lens
+Ability: Huge Power
+Level: 43
+Adamant Nature
+- Play Rough
+- Aqua Tail
+- Double-Edge

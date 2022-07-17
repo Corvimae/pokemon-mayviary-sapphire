@@ -1,0 +1,15 @@
+Credit: Skylon
+---
+Name: Maylene
+Class: 147-Battle Girl
+---
+Pokemon: 1
+
+Medicham @ Wide Lens
+Ability: Pure Power
+Level: 57
+Jolly Nature
+- High Jump Kick
+- Zen Headbutt
+- Ice Punch
+- Thunder Punch

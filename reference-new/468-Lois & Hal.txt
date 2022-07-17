@@ -1,0 +1,24 @@
+Credit: Skylon
+---
+Name: Lois & Peter
+Class: 188-Young Couple
+---
+Pokemon: 2
+
+Quagsire @ Rindo Berry
+Ability: Water Absorb
+Level: 76
+Modest Nature
+- Surf
+- Earth Power
+- Blizzard
+- Scald
+
+Quagsire
+Ability: Water Absorb
+Level: 76
+Modest Nature
+- Surf
+- Earth Power
+- Scald
+- Blizzard

@@ -1,0 +1,24 @@
+Credit: Skylon
+---
+Name: Nellie
+Class: 220-Fairy Tale Girl
+---
+Pokemon: 2
+
+Delcatty
+Ability: Wonder Skin
+Level: 34
+Modest Nature
+- Substitute
+- Calm Mind
+- Hyper Voice
+- Shadow Ball
+
+Wigglytuff @ Babiri Berry
+Ability: Competitive
+Level: 34
+Modest Nature
+- Dazzling Gleam
+- Psychic
+- Flamethrower
+- Toxic

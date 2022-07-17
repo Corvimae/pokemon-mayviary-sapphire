@@ -1,0 +1,16 @@
+Credit: Skylon
+---
+Name: Ditto
+Class: 129-Youngster
+---
+Pokemon: 2
+
+Ditto
+Ability: Imposter
+Level: 21
+- Transform
+
+Ditto
+Ability: Imposter
+Level: 21
+- Transform

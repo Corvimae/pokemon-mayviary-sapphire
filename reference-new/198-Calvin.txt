@@ -1,0 +1,34 @@
+Credit: Skylon
+---
+Name: Calvin
+Class: 129-Youngster
+---
+Pokemon: 3
+
+Skarmory
+Ability: Keen Eye
+Level: 70
+Impish Nature
+- Brave Bird
+- Roost
+- Spikes
+- Iron Head
+
+Shuckle @ Leftovers
+Ability: Sturdy
+Level: 70
+Modest Nature
+IVs: 0 Atk
+- Mud-Slap
+- Infestation
+- Toxic
+- Struggle Bug
+
+Probopass
+Ability: Sturdy
+Level: 70
+Modest Nature
+- Power Gem
+- Flash Cannon
+- Thunderbolt
+- Iron Defense

@@ -1,0 +1,24 @@
+Credit: Skylon
+---
+Name: Calvin
+Class: 129-Youngster
+---
+Pokemon: 2
+
+Shuckle @ Leftovers
+Ability: Sturdy
+Level: 22
+Modest Nature
+- Mud-Slap
+- Infestation
+- Toxic
+- Struggle Bug
+
+Nosepass
+Ability: Sturdy
+Level: 22
+Adamant Nature
+- Rock Slide
+- Thunder Wave
+- Earthquake
+- Thunder Punch

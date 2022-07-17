@@ -1,0 +1,15 @@
+Credit: Skylon
+---
+Name: Olivia
+Class: 154-Beauty
+---
+Pokemon: 1
+
+Gastrodon-East @ Rindo Berry
+Ability: Storm Drain
+Level: 64
+Modest Nature
+- Surf
+- Ice Beam
+- Earth Power
+- Yawn

@@ -1,0 +1,16 @@
+Credit: Skylon
+---
+Name: Ditto & Ditto
+Class: 231-Ace Duo
+---
+Pokemon: 2
+
+Ditto
+Ability: Imposter
+Level: 31
+- Transform
+
+Ditto
+Ability: Imposter
+Level: 31
+- Transform

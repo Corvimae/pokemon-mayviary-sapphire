@@ -1,0 +1,33 @@
+Credit: Skylon
+---
+Name: Vito
+Class: 209-The Winstrates'
+---
+Pokemon: 3
+
+Metagross
+Ability: Clear Body
+Level: 66
+Adamant Nature
+- Agility
+- Meteor Mash
+- Bullet Punch
+- Earthquake
+
+Hydreigon (M)
+Ability: Levitate
+Level: 66
+Timid Nature
+- Flash Cannon
+- Dark Pulse
+- Dragon Pulse
+- Taunt
+
+Salamence (M) @ Life Orb
+Ability: Moxie
+Level: 66
+Adamant Nature
+- Dragon Dance
+- Stone Edge
+- Dragon Claw
+- Earthquake

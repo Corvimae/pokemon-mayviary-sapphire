@@ -1,0 +1,15 @@
+Credit: Skylon
+---
+Name: Calvin
+Class: 129-Youngster
+---
+Pokemon: 1
+
+Shuckle @ Sitrus Berry
+Ability: Sturdy
+Level: 6
+Quiet Nature
+- Mud-Slap
+- Infestation
+- Withdraw
+- Wrap

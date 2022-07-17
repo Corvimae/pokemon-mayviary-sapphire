@@ -1,0 +1,24 @@
+Credit: Skylon
+---
+Name: Corvimae & swc19
+Class: 173-Interviewers
+---
+Pokemon: 2
+
+Mantine (F) @ Wacan Berry
+Ability: Water Absorb
+Level: 61
+Modest Nature
+- Tailwind
+- Icy Wind
+- Scald
+- Air Slash
+
+Amoonguss @ Black Sludge
+Ability: Effect Spore
+Level: 61
+Modest Nature
+- Spore
+- Giga Drain
+- Sludge Bomb
+- Synthesis

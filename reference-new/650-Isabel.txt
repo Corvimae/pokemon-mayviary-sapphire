@@ -1,0 +1,24 @@
+Credit: Skylon
+---
+Name: Red
+Class: 128-Pokémon Trainer
+---
+Pokemon: 2
+
+Espeon
+Ability: Magic Bounce
+Level: 22
+Timid Nature
+- Psybeam
+- Charm
+- Light Screen
+- Shadow Ball
+
+Lapras @ Sitrus Berry
+Ability: Shell Armor
+Level: 22
+Quiet Nature
+- Water Pulse
+- Frost Breath
+- Sing
+- Zen Headbutt

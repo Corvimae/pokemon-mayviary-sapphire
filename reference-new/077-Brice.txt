@@ -1,0 +1,24 @@
+Credit: Skylon
+---
+Name: Satin
+Class: 156-Hiker
+---
+Pokemon: 2
+
+Scizor @ Occa Berry
+Ability: Swarm
+Level: 27
+Adamant Nature
+- Bullet Punch
+- Steel Wing
+- Bug Bite
+- Swords Dance
+
+Gliscor
+Ability: Hyper Cutter
+Level: 27
+Jolly Nature
+- Earthquake
+- Knock Off
+- Acrobatics
+- Poison Jab

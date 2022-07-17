@@ -1,0 +1,15 @@
+Credit: Skylon
+---
+Name: Hugh
+Class: 128-Pokémon Trainer
+---
+Pokemon: 1
+
+Emboar @ Charcoal
+Ability: Blaze
+Level: 45
+Lonely Nature
+- Rollout
+- Assurance
+- Take Down
+- Flamethrower

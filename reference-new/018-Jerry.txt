@@ -1,0 +1,15 @@
+Credit: Skylon
+---
+Name: Jerry
+Class: 136-Schoolkid
+---
+Pokemon: 1
+
+Ralts @ Focus Sash
+Ability: Trace
+Level: 15
+Modest Nature
+- Disarming Voice
+- Confusion
+- Double Team
+- Signal Beam

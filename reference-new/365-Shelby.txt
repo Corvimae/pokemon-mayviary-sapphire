@@ -1,0 +1,24 @@
+Credit: Skylon
+---
+Name: Shelby
+Class: 189-Expert
+---
+Pokemon: 2
+
+Hariyama @ Flame Orb
+Ability: Guts
+Level: 39
+Adamant Nature
+- Fake Out
+- Knock Off
+- Brick Break
+- Facade
+
+Medicham
+Ability: Pure Power
+Level: 39
+Jolly Nature
+- Zen Headbutt
+- High Jump Kick
+- Bulk Up
+- Ice Punch

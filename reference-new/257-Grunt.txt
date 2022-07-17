@@ -1,0 +1,15 @@
+Credit: Skylon
+---
+Name: Snow
+Class: 137-Team Aqua
+---
+Pokemon: 1
+
+Abomasnow @ Occa Berry
+Ability: Snow Warning
+Level: 45
+Sassy Nature
+- Blizzard
+- Energy Ball
+- Ice Shard
+- Light Screen

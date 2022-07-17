@@ -1,0 +1,15 @@
+Credit: Skylon
+---
+Name: Jerry
+Class: 136-Schoolkid
+---
+Pokemon: 1
+
+Gardevoir @ Expert Belt
+Ability: Trace
+Level: 39
+Timid Nature
+- Psychic
+- Dazzling Gleam
+- Shadow Ball
+- Focus Blast

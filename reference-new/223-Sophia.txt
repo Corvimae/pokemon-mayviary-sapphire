@@ -1,0 +1,16 @@
+Credit: Skylon
+---
+Name: Ditto
+Class: 166-Pokémon Ranger
+---
+Pokemon: 2
+
+Ditto
+Ability: Imposter
+Level: 25
+- Transform
+
+Ditto
+Ability: Imposter
+Level: 25
+- Transform

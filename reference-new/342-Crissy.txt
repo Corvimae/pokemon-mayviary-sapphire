@@ -1,0 +1,18 @@
+Credit: Skylon
+---
+Name: Crissy
+Class: 131-Lass
+---
+Pokemon: 2
+
+Gigalith @ Choice Band
+Ability: Sturdy
+Level: 61
+Adamant Nature
+- Explosion
+
+Gigalith @ Choice Band
+Ability: Sturdy
+Level: 61
+Adamant Nature
+- Explosion

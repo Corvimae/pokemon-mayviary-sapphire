@@ -1,0 +1,15 @@
+Credit: Skylon
+---
+Name: Deez
+Class: 157-Camper
+---
+Pokemon: 1
+
+Swalot @ Black Sludge
+Ability: Liquid Ooze
+Level: 36
+Adamant Nature
+- Gunk Shot
+- Yawn
+- Amnesia
+- Body Slam

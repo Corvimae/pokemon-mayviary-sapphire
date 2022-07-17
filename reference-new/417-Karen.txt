@@ -1,0 +1,24 @@
+Credit: Skylon
+---
+Name: Karen
+Class: 136-Schoolkid
+---
+Pokemon: 2
+
+Whismur
+Ability: Soundproof
+Level: 18
+Mild Nature
+- Extrasensory
+- Disarming Voice
+- Echoed Voice
+- Astonish
+
+Shroomish @ Toxic Orb
+Ability: Poison Heal
+Level: 18
+Sassy Nature
+- Leech Seed
+- Mega Drain
+- Stun Spore
+- Drain Punch

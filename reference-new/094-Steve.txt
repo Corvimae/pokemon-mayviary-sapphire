@@ -1,0 +1,15 @@
+Credit: Skylon
+---
+Name: Red
+Class: 128-Pokémon Trainer
+---
+Pokemon: 1
+
+Venusaur @ Black Sludge
+Ability: Overgrow
+Level: 34
+Timid Nature
+- Leech Seed
+- Sleep Powder
+- Petal Dance
+- Sludge Bomb

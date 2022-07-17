@@ -1,0 +1,33 @@
+Credit: Skylon
+---
+Name: Jerry
+Class: 136-Schoolkid
+---
+Pokemon: 3
+
+Medicham
+Ability: Pure Power
+Level: 62
+Jolly Nature
+- High Jump Kick
+- Zen Headbutt
+- Ice Punch
+- Bulk Up
+
+Bisharp
+Ability: Defiant
+Level: 62
+Adamant Nature
+- Iron Head
+- Night Slash
+- Psycho Cut
+- Brick Break
+
+Gardevoir @ Expert Belt
+Ability: Trace
+Level: 62
+Timid Nature
+- Psychic
+- Dazzling Gleam
+- Shadow Ball
+- Focus Blast

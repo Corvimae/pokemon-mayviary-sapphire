@@ -1,0 +1,12 @@
+Credit: Skylon
+---
+Name: Marissa
+Class: 214-Poké Fan
+---
+Pokemon: 1
+
+Gigalith @ Choice Band
+Ability: Sturdy
+Level: 64
+Adamant Nature
+- Explosion

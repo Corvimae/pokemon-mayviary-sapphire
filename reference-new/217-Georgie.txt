@@ -1,0 +1,16 @@
+Credit: Skylon
+---
+Name: Ditto
+Class: 136-Schoolkid
+---
+Pokemon: 2
+
+Ditto
+Ability: Imposter
+Level: 24
+- Transform
+
+Ditto
+Ability: Imposter
+Level: 24
+- Transform

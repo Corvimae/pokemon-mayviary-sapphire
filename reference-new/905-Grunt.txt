@@ -1,0 +1,35 @@
+Credit: grouchobarx
+---
+Name: Grouch
+Class: 181-Team Aqua
+---
+Pokemon: 3
+
+Chatot @ Normal Gem  
+Ability: Big Pecks  
+Level: 79  
+EVs: 1 HP  
+Timid Nature  
+- Boomburst  
+- Tailwind  
+- Nasty Plot  
+- Heat Wave  
+
+Skuntank (F)
+Ability: Stench
+Level: 76
+Bold Nature
+- Memento
+- Screech
+
+Skuntank (F)
+Ability: Stench
+Level: 76
+Adamant Nature
+- Explosion
+
+Skuntank (F) @ Choice Band
+Ability: Stench
+Level: 76
+Adamant Nature
+- Explosion

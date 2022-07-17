@@ -1,0 +1,58 @@
+Credit: Skylon
+---
+Name: Sklon
+Class: 195-Elite Four
+Item 1:
+Item 2:
+Item 3:
+Item 4:
+---
+Pokemon: 6
+
+Togekiss (F) @ Wide Lens
+Ability: Serene Grace
+Timid Nature
+- Air Slash
+- Fire Blast
+- Thunder Wave
+- Ancient Power
+
+Empoleon (F) @ Wacan Berry
+Ability: Torrent
+Modest Nature
+- Scald
+- Ice Beam
+- Flash Cannon
+- Stealth Rock
+
+Magnezone @ Assault Vest
+Ability: Analytic
+Modest Nature
+- Volt Switch
+- Flash Cannon
+- Thunderbolt
+- Tri Attack
+
+Darkrai @ Leftovers
+Ability: Bad Dreams
+Timid Nature
+- Dark Void
+- Dream Eater
+- Dark Pulse
+- Sludge Bomb
+
+Garchomp (F) @ Yache Berry
+Ability: Rough Skin
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Iron Head
+- Swords Dance
+
+Gallade @ Galladite
+Ability: Justified
+Jolly Nature
+- Zen Headbutt
+- Ice Punch
+- Poison Jab
+- Brick Break

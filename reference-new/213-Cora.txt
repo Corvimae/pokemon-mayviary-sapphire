@@ -1,0 +1,11 @@
+Credit: Skylon
+---
+Name: Ditto
+Class: 147-Battle Girl
+---
+Pokemon: 1
+
+Ditto
+Ability: Imposter
+Level: 25
+- Transform

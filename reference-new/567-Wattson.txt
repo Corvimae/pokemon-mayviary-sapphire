@@ -1,0 +1,58 @@
+Credit: Redesignated
+---
+Name: Wattson
+Class: 202-Leader
+Item 1: Super Potion
+Item 2: Super Potion
+---
+Pokemon: 5
+
+Elgyem @ Dubious Disc  
+Ability: Analytic  
+Level: 21  
+Quiet Nature  
+IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe  
+- Nasty Plot  
+- Embargo  
+- Psybeam  
+- Reflect  
+
+Joltik (M) @ Bright Powder  
+Ability: Compound Eyes  
+Level: 21  
+Modest Nature  
+IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe  
+- Electroweb  
+- Infestation  
+- Struggle Bug  
+- Signal Beam  
+
+Magnemite @ Air Balloon  
+Ability: Analytic  
+Level: 22  
+Quiet Nature  
+IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe  
+- Thunder Wave  
+- Mirror Shot  
+- Electric Terrain  
+- Metal Sound  
+
+Klink @ Metal Coat  
+Ability: Clear Body  
+Level: 22  
+Relaxed Nature  
+IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe  
+- Thunder Shock  
+- Gear Grind  
+- Thunder Wave  
+- Iron Defense  
+
+Rotom-Wash @ Wide Lens  
+Ability: Levitate  
+Level: 24  
+Modest Nature  
+IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe  
+- Double Team  
+- Charge Beam  
+- Confuse Ray  
+- Hydro Pump  

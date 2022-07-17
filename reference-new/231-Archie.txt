@@ -1,0 +1,68 @@
+Credit: wretchedFiend
+---
+Name: ARRRRRRRRRchie
+Class: 174-Aqua Leader
+Item 1: Max Potion
+Item 2: Full Heal
+---
+Pokemon: 6
+
+Poliwrath (M) @ Assault Vest  
+Ability: Water Absorb  
+Level: 39  
+Impish Nature  
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
+- Poison Jab  
+- Brick Break  
+- Waterfall  
+- Ice Punch  
+
+Barbaracle (M) @ Scope Lens  
+Ability: Sniper  
+Level: 39  
+Adamant Nature  
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
+- Cross Chop  
+- Night Slash  
+- Shadow Claw  
+- Stone Edge  
+
+Swampert (M) @ Rindo Berry  
+Ability: Torrent  
+Level: 39  
+Adamant Nature  
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
+- Ice Punch  
+- Waterfall  
+- Yawn  
+- Protect  
+
+Carracosta (M) @ Rindo Berry  
+Ability: Solid Rock  
+Level: 39  
+Modest Nature  
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
+- Earth Power  
+- Ice Beam  
+- Surf  
+- Ancient Power  
+
+Crawdaunt (M) @ Life Orb  
+Ability: Adaptability  
+Level: 39  
+Adamant Nature  
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
+- Aqua Jet  
+- Crunch  
+- Waterfall  
+- Crabhammer  
+
+Sharpedo (M) @ Focus Sash  
+Ability: Speed Boost  
+Level: 40  
+Adamant Nature  
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
+- Waterfall  
+- Ice Fang  
+- Crunch  
+- Zen Headbutt  

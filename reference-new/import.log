@@ -1,4 +1,4 @@
-[Begin] Importing 7 Trainer Files!
+[Begin] Importing 10 Trainer Files!
 
 How to navigate this file:
 Ctrl + F and search for the following important tags
@@ -34,6 +34,18 @@ Ctrl + F and search for the following important tags
 	
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\086-Neal.txt
 
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\178-Archie.txt
+	[Manual]: Found Name command (Trainer should be renamed to "ARRRRRRRRRchie") while reading the following line
+	Name: ARRRRRRRRRchie
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\178-Archie.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\231-Archie.txt
+	[Manual]: Found Name command (Trainer should be renamed to "ARRRRRRRRRchie") while reading the following line
+	Name: ARRRRRRRRRchie
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\231-Archie.txt
+
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\555-Glacia.txt
 	[Manual]: Found Name command (Trainer should be renamed to "Yoshi") while reading the following line
 	Name: Yoshi
@@ -45,6 +57,15 @@ Ctrl + F and search for the following important tags
 	Name: Brawl-y
 	
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\563-Brawly.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\567-Wattson.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Wattson") while reading the following line
+	Name: Wattson
+	
+	[Manual]: During PokePaste, found Pokemon with a Form "Rotom-Wash" while reading the following line
+	Rotom-Wash @ Wide Lens  
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\567-Wattson.txt
 
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\911-Glacia.txt
 	[Manual]: Found Name command (Trainer should be renamed to "Yoshi") while reading the following line

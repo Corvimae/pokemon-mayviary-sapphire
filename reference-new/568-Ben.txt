@@ -1,6 +1,6 @@
 Credit: Lacy Dog
 ---
-Name: Lacy Dog
+Name: Lacy
 Class: 228-Delinquent
 Item 1: Full Restore
 ---

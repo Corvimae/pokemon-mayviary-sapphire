@@ -1,0 +1,16 @@
+Credit: Lacy Dog
+---
+Name: Pink
+Class: 230-Ace Trainer
+Item 1: Full Restore
+---
+Pokemon: 1
+
+Lanturn @ Assault Vest  
+Ability: Volt Absorb  
+Level: 30  
+Modest Nature  
+- Ice Beam  
+- Scald  
+- Thunderbolt  
+- Dazzling Gleam

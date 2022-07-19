@@ -1,0 +1,25 @@
+Credit: Lacy Dog
+---
+Name: Orange
+Class: 163-Bird Keeper
+Item 1: Full Restore
+---
+Pokemon: 2
+
+Rotom-Frost  
+Ability: Levitate  
+Level: 24  
+Modest Nature   
+- Blizzard  
+- Dark Pulse  
+- Discharge  
+- Will-O-Wisp
+
+Porygon2 @ Eviolite  
+Ability: Trace  
+Level: 24  
+Calm Nature  
+- Toxic  
+- Thunderbolt  
+- Ice Beam  
+- Recover

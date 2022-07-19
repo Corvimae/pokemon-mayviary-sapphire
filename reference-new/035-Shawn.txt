@@ -1,0 +1,25 @@
+Credit: Lacy Dog
+---
+Name: Blue
+Class: 131-Lass
+Item 1: Full Restore
+---
+Pokemon: 2
+
+Heliolisk @ Life Orb  
+Ability: Dry Skin  
+Level: 26  
+Timid Nature   
+- Volt Switch  
+- Thunderbolt  
+- Hyper Voice  
+- Surf
+
+Emolga  
+Ability: Static  
+Level: 26  
+Timid Nature   
+- Thunderbolt  
+- Roost  
+- Air Slash  
+- Taunt

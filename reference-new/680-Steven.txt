@@ -1,0 +1,15 @@
+Credit: Roberta
+---
+Name: Steely Dan
+Class: 219-Pokémon Trainer
+---
+Pokemon: 1
+
+Magneton
+Ability: Sturdy
+Level: 35
+Quiet Nature
+- Thunderbolt
+- Iron Defense
+- Tri Attack
+- Protect

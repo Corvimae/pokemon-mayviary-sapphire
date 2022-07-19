@@ -1,4 +1,4 @@
-[Begin] Importing 134 Trainer Files!
+[Begin] Importing 144 Trainer Files!
 
 How to navigate this file:
 Ctrl + F and search for the following important tags
@@ -25,6 +25,9 @@ Ctrl + F and search for the following important tags
 	
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\019-Karen.txt
 
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\020-Grunt.txt
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\020-Grunt.txt
+
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\023-Joey.txt
 	[Manual]: Found Name command (Trainer should be renamed to "Joey") while reading the following line
 	Name: Joey
@@ -42,6 +45,21 @@ Ctrl + F and search for the following important tags
 	Name: Janice
 	
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\025-Janice.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\034-Kirk.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Orange") while reading the following line
+	Name: Orange
+	
+	[Manual]: During PokePaste, found Pokemon with a Form "Rotom-Frost" while reading the following line
+	Rotom-Frost  
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\034-Kirk.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\035-Shawn.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Blue") while reading the following line
+	Name: Blue
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\035-Shawn.txt
 
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\056-Hideki.txt
 	[Manual]: Found Name command (Trainer should be renamed to "Ryu") while reading the following line
@@ -279,6 +297,9 @@ Ctrl + F and search for the following important tags
 	Name: Grunt
 	
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\233-Grunt.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\254-Grunt.txt
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\254-Grunt.txt
 
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\256-Grunt.txt
 	[Manual]: Found Name command (Trainer should be renamed to "Sunny") while reading the following line
@@ -613,6 +634,12 @@ Ctrl + F and search for the following important tags
 	
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\555-Glacia.txt
 
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\557-Steven.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Steely Dan") while reading the following line
+	Name: Steely Dan
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\557-Steven.txt
+
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\563-Brawly.txt
 	[Manual]: Found Name command (Trainer should be renamed to "Brawl-y") while reading the following line
 	Name: Brawl-y
@@ -627,6 +654,12 @@ Ctrl + F and search for the following important tags
 	Rotom-Wash @ Wide Lens  
 	
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\567-Wattson.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\568-Ben.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Lacy Dog") while reading the following line
+	Name: Lacy Dog
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\568-Ben.txt
 
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\569-Flannery.txt
 	[Manual]: Found Name command (Trainer should be renamed to "AAAA") while reading the following line
@@ -657,6 +690,12 @@ Ctrl + F and search for the following important tags
 	Gastrodon-East @ Rindo Berry
 	
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\594-Olivia.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\614-Vivian.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Pink") while reading the following line
+	Name: Pink
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\614-Vivian.txt
 
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\641-Victor.txt
 	[Manual]: Found Name command (Trainer should be renamed to "Aang") while reading the following line
@@ -714,6 +753,12 @@ Ctrl + F and search for the following important tags
 	Name: Red
 	
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\664-Isabel.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\680-Steven.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Steely Dan") while reading the following line
+	Name: Steely Dan
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\680-Steven.txt
 
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\688-Shelly.txt
 	[Manual]: Found Name command (Trainer should be renamed to "Evil Nessa") while reading the following line
@@ -837,5 +882,23 @@ Ctrl + F and search for the following important tags
 	Name: Yoshi
 	
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\911-Glacia.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\913-Steven.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Steely Dan") while reading the following line
+	Name: Steely Dan
+	
+	[WARNING]: During PokePaste, could not find a matching Item name for "King's Rock" while reading the following line
+	Klinklang @ King's Rock
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\913-Steven.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\942-Steven.txt
+	[Manual]: Found Name command (Trainer should be renamed to "Steely Dan") while reading the following line
+	Name: Steely Dan
+	
+	[WARNING]: During PokePaste, could not find a matching Item name for "King's Rock" while reading the following line
+	Klinklang @ King's Rock
+	
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\942-Steven.txt
 
 [End] Finished importing all Trainer Files!

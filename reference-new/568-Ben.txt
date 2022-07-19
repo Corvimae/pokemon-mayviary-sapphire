@@ -1,0 +1,16 @@
+Credit: Lacy Dog
+---
+Name: Lacy Dog
+Class: 228-Delinquent
+Item 1: Full Restore
+---
+Pokemon: 1
+
+Manectric @ Air Balloon  
+Ability: Lightning Rod  
+Level: 26  
+Timid Nature   
+- Thunderbolt  
+- Flamethrower  
+- Toxic  
+- Snarl

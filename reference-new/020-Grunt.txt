@@ -1,0 +1,12 @@
+Credit: Spiderc
+---
+Pokemon: 1
+
+Poochyena @ Bright Powder  
+Ability: Quick Feet  
+Level: 13  
+Jolly Nature  
+- Bite  
+- Sand Attack  
+- Thunder Fang  
+- Ice Fang 

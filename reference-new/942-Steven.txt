@@ -1,0 +1,66 @@
+Credit to: Roberta
+---
+Name: Steely Dan
+Class: 219-Pokémon Trainer
+---
+Pokemon: 6
+
+Magnezone @ Magnet
+Ability: Sturdy
+Level: 59
+IVs: All 31
+Quiet Nature
+- Discharge
+- Thunderbolt
+- Flash Cannon
+- Signal Beam
+
+Klefki (F) @ Air Balloon
+Ability: Prankster
+Level: 57
+IVs: All 31
+Bold Nature
+- Dazzling Gleam
+- Toxic
+- Flash Cannon
+- Foul Play
+
+Excadrill (M) @ Expert Belt
+Ability: Sand Force
+Level: 57
+IVs: All 31
+Adamant Nature
+- Earthquake
+- Sandstorm
+- Rock Slide
+- Iron Head
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 57
+IVs: All 31
+Jolly Nature
+- Earthquake
+- Meteor Mash
+- Reflect
+- Stealth Rock
+
+Ferrothorn (F) @ Focus Sash
+Ability: Iron Barbs
+Level: 57
+IVs: All 31
+Relaxed Nature
+- Power Whip
+- Shadow Claw
+- Leech Seed
+- Iron Head
+
+Klinklang @ King's Rock
+Ability: Clear Body
+Level: 57
+IVs: All 31
+Brave Nature
+- Trick Room
+- Wild Charge
+- Thunder Wave
+- Gear Grind

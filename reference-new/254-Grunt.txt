@@ -1,0 +1,12 @@
+Credit: Spiderc
+---
+Pokemon: 1
+
+Mightyena @ Bright Powder  
+Ability: Moxie  
+Level: 19  
+Jolly Nature  
+- Crunch  
+- Double Team  
+- Thunder Fang  
+- Swagger 

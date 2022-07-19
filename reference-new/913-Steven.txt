@@ -1,0 +1,70 @@
+credit: Roberta
+---
+Name: Steely Dan
+Class: 277-Champion
+Item 1: Full Restore
+Item 2: Full Restore
+Item 3: Full Restore
+Item 4: Full Restore
+---
+Pokemon: 6
+
+Magnezone @ Magnet
+Ability: Sturdy
+Level: 100
+Modest Nature
+IVs: 31 in all
+- Discharge
+- Thunderbolt
+- Flash Cannon
+- Signal Beam
+
+Klefki (F) @ Air Balloon
+Ability: Prankster
+Level: 100
+Bold Nature
+IVs: 31 in All
+- Dazzling Gleam
+- Toxic
+- Flash Cannon
+- Foul Play
+
+Excadrill (M) @ Expert Belt
+Ability: Sand Force
+Level: 100
+Adamant Nature
+IVs: 31 in all
+- Earthquake
+- Sandstorm
+- Rock Slide
+- Iron Head
+
+Metagross @ Metagrossite
+Ability: Clear Body
+Level: 100
+Jolly Nature
+IVs: 31 in all
+- Earthquake
+- Meteor Mash
+- Reflect
+- Stealth Rock
+
+Ferrothorn (F) @ Focus Sash
+Ability: Iron Barbs
+Level: 100
+Relaxed Nature
+IVs: 31 in all
+- Power Whip
+- Shadow Claw
+- Leech Seed
+- Iron Head
+
+Klinklang @ King's Rock
+Ability: Clear Body
+Level: 100
+IVs: 31 in all
+Brave Nature
+- Trick Room
+- Wild Charge
+- Thunder Wave
+- Gear Grind 

@@ -1,0 +1,65 @@
+Credit: NickPixels
+---
+Name: IGN Reviewer
+Class: 268-Sootopolitan
+Item 1: Full Restore
+Item 2: Full Restore
+Item 3: Full Restore
+Item 4: Full Restore
+---
+Pokemon: 6
+
+Feraligatr (F) @ Life Orb  
+Ability: Sheer Force  
+Level: 86  
+Jolly Nature  
+- Dragon Dance  
+- Waterfall  
+- Ice Punch  
+- Crunch  
+
+Cloyster (F) @ White Herb  
+Ability: Skill Link  
+Level: 86  
+Jolly Nature  
+- Shell Smash  
+- Icicle Spear  
+- Rock Blast  
+- Explosion  
+
+Greninja (F) @ Expert Belt  
+Ability: Protean  
+Level: 86  
+Modest Nature  
+- Ice Beam  
+- Dark Pulse  
+- U-turn  
+- Extrasensory  
+
+Azumarill (F) @ Sitrus Berry  
+Ability: Sap Sipper  
+Level: 86  
+Adamant Nature  
+- Belly Drum  
+- Aqua Jet  
+- Play Rough  
+- Superpower  
+
+Kyogre @ Damp Rock  
+Ability: Drizzle  
+Level: 86  
+Modest Nature  
+- Surf  
+- Ice Beam  
+- Thunder  
+- Calm Mind  
+
+Swampert (F) @ Swampertite  
+Ability: Torrent  
+Level: 86  
+Adamant Nature  
+- Earthquake  
+- Surf  
+- Hammer Arm  
+- Outrage  
+

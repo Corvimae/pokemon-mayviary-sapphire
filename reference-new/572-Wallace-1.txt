@@ -1,0 +1,65 @@
+Credit: NickPixels
+---
+Name: IGN Reviewer
+Class: 207-Leader
+Item 1: Guard Spec.
+Item 2: Full Heal
+Item 3: Full Restore
+Item 4: Full Restore
+---
+Pokemon: 6
+
+Politoed (F) @ Damp Rock  
+Ability: Drizzle  
+Level: 69  
+Bold Nature  
+- Perish Song  
+- Substitute  
+- Toxic  
+- Protect  
+
+Ludicolo (F) @ Leftovers  
+Ability: Rain Dish  
+Level: 69  
+Bold Nature  
+- Leech Seed  
+- Giga Drain  
+- Toxic  
+- Rain Dance  
+
+Milotic (F) @ Flame Orb  
+Ability: Marvel Scale  
+Level: 69  
+Bold Nature  
+- Aqua Ring  
+- Toxic  
+- Recover  
+- Rain Dance  
+
+Alomomola (F) @ Leftovers  
+Ability: Regenerator  
+Level: 69  
+Calm Nature  
+- Aqua Ring  
+- Scald  
+- Rain Dance  
+- Substitute  
+
+Vaporeon (F) @ Leftovers  
+Ability: Hydration  
+Level: 69  
+Bold Nature  
+- Aqua Ring  
+- Scald  
+- Ice Beam  
+- Baton Pass  
+
+Slowbro (F) @ Slowbronite  
+Ability: Oblivious  
+Level: 69  
+Calm Nature  
+- Slack Off  
+- Scald  
+- Flamethrower  
+- Ice Beam  
+

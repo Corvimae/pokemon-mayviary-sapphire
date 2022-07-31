@@ -1,0 +1,40 @@
+Credit: PsychicChampion
+---
+Name: Kaleb
+Class: 169-Psychic
+Item 1: Super Potion
+---
+Pokemon: 3
+
+Gardevoir  
+Ability: Synchronize  
+Level: 30  
+Shiny: Yes  
+EVs: 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Dazzling Gleam  
+- Destiny Bond  
+- Moonblast  
+
+Mismagius  
+Ability: Levitate  
+Level: 30  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Shadow Sneak  
+- Dark Pulse  
+- Destiny Bond  
+
+Noctowl  
+Ability: Insomnia  
+Level: 30  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Air Slash  
+- Psychic  
+- Shadow Ball  
+- Hyper Voice  

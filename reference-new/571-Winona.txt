@@ -1,0 +1,64 @@
+Credit: dijonketchup
+---
+Name: Alison
+Class: 205-Leader
+Item 1: Full Restore
+Item 2: Full Restore
+Item 3: Full Restore
+Item 4: Full Restore
+---
+Pokemon: 6
+
+Venonat (F) @ Eviolite
+Ability: Tinted Lens
+Level: 45
+Brave Nature
+- Signal Beam
+- Protect
+- Toxic Spikes
+- Double Team
+
+Cloyster (F) @ Razor Fang
+Ability: Shell Armor
+Level: 47
+Modest Nature
+- Ice Beam
+- Shell Smash
+- Surf
+- Hyper Beam
+
+Liepard (F) @ Leftovers
+Ability: Prankster
+Level: 48
+Calm Nature
+- Nasty Plot
+- Yawn
+- Snarl
+- Dark Pulse
+
+Swellow (F) @ Assault Vest
+Ability: Guts
+Level: 50
+Adamant Nature
+- Boomburst
+- Air Slash
+- Steel Wing
+- U-turn
+
+Grumpig (F) @ Sitrus Berry
+Ability: Thick Fat
+Level: 50
+Modest Nature
+- Calm Mind
+- Energy Ball
+- Psychic
+- Light Screen
+
+Gengar (F) @ Gengarite
+Ability: Levitate
+Level: 52
+Bold Nature
+- Dazzling Gleam
+- Shadow Ball
+- Thunderbolt
+- Giga Drain

@@ -1,0 +1,16 @@
+Credit: Cazenovia
+---
+Name: Caz
+Class: 129-Youngster
+---
+Pokemon: 1
+
+Lampent  
+Ability: Flame Body  
+Level: 47  
+Timid Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Hex  
+- Will-O-Wisp  
+- Confuse Ray  

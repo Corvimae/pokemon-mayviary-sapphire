@@ -1,0 +1,16 @@
+Credit: Cazenovia
+---
+Name: Caz
+Class: 129-Youngster
+---
+Pokemon: 1
+
+Litwick  
+Ability: Flame Body  
+Level: 17  
+Timid Nature  
+IVs: 0 Atk  
+- Ember  
+- Night Shade  
+- Will-O-Wisp  
+- Confuse Ray  

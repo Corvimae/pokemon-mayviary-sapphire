@@ -1,0 +1,20 @@
+Credit: Cazenovia
+---
+Name: Allen
+Class: 129-Youngster
+---
+Pokemon: 2
+
+Skitty  
+Ability: Cute Charm  
+Level: 5  
+Jolly Nature  
+- Fake Out  
+- Last Resort  
+
+Glameow  
+Ability: Limber  
+Level: 5  
+Jolly Nature  
+- Fake Out  
+- Last Resort  

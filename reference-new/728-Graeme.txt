@@ -1,0 +1,16 @@
+Credit: Cazenovia
+---
+Name: Caz
+Class: 129-Youngster
+---
+Pokemon: 1
+
+Chandelure  
+Ability: Flame Body  
+Level: 75  
+Timid Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Shadow Ball  
+- Will-O-Wisp  
+- Energy Ball   

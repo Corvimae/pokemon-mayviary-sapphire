@@ -1,0 +1,42 @@
+Credit: Cazenovia
+---
+Name: Bliss
+Class: 153-Pokémon Breeder
+---
+Pokemon: 6
+
+Blissey
+Ability: Serene Grace
+Level: 39
+Hasty Nature
+- Tail Whip
+
+Blissey
+Ability: Serene Grace
+Level: 39
+Hasty Nature
+- Tail Whip
+
+Blissey
+Ability: Serene Grace
+Level: 39
+Hasty Nature
+- Tail Whip
+
+Blissey
+Ability: Serene Grace
+Level: 39
+Hasty Nature
+- Tail Whip
+
+Blissey
+Ability: Serene Grace
+Level: 39
+Hasty Nature
+- Tail Whip
+
+Blissey
+Ability: Serene Grace
+Level: 39
+Hasty Nature
+- Tail Whip

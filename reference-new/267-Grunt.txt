@@ -1,0 +1,15 @@
+Credit: Cazenovia
+---
+Name: Grunt
+Class: 137-Team Aqua
+---
+Pokemon: 1
+
+Zorua  
+Ability: Illusion  
+Level: 22  
+Adamant Nature  
+- Feint Attack  
+- Scary Face  
+- Fury Swipes  
+- Taunt

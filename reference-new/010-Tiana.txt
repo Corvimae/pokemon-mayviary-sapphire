@@ -1,0 +1,15 @@
+Credit: Cazenovia
+---
+Name: Floon
+Class: 131-Lass
+---
+Pokemon: 1
+
+Drifloon  
+Ability: Aftermath  
+Level: 8  
+Hasty Nature  
+- Constrict  
+- Minimize  
+- Astonish  
+- Gust

@@ -1,0 +1,15 @@
+Credit: Cazenovia
+---
+Name: Grunt
+Class: 137-Team Aqua
+---
+Pokemon: 1
+
+Greninja  
+Ability: Torrent  
+Level: 45  
+Timid Nature  
+- Hydro Cannon  
+- Dark Pulse  
+- Water Shuriken  
+- Substitute

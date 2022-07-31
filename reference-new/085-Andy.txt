@@ -1,0 +1,15 @@
+Credit: Cazenovia
+---
+Name: Sean
+Class: 221-Lorekeeper
+---
+Pokemon: 1
+
+Lanturn  
+Ability: Volt Absorb  
+Level: 37  
+Modest Nature  
+- Bubble Beam  
+- Discharge  
+- Confuse Ray  
+- Dazzling Gleam

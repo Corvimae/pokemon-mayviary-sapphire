@@ -1,0 +1,15 @@
+Credit: Cazenovia
+---
+Name: Bingus
+Class: 198-Champion
+---
+Pokemon: 1
+
+Lapras  
+Ability: Shell Armor  
+Level: 51  
+Hardy Nature  
+- Ice Beam  
+- Brine  
+- Safeguard  
+- Sheer Cold

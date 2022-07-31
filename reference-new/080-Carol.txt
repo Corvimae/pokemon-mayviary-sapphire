@@ -1,0 +1,15 @@
+Credit: Cazenovia
+---
+Name: Longboi
+Class: 161-Expert
+---
+Pokemon: 1
+
+Furret  
+Ability: Keen Eye  
+Level: 26  
+Jolly Nature  
+- Quick Attack  
+- Double-Edge  
+- Power-Up Punch  
+- Shadow Claw

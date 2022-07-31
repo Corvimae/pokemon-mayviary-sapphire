@@ -1,0 +1,15 @@
+Credit: Cazenovia
+---
+Name: Edgar
+Class: 148-Ace Trainer
+---
+Pokemon: 1
+
+Sigilyph @ Flame Orb 
+Ability: Magic Guard
+Level: 70    
+Calm Nature  
+- Cosmic Power  
+- Roost  
+- Stored Power  
+- Psycho Shift

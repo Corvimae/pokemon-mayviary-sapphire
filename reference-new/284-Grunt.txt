@@ -1,0 +1,24 @@
+Credit: Cazenovia
+---
+Name: Grunt
+Class: 137-Team Aqua
+---
+Pokemon: 2
+
+Samurott @ Muscle Band  
+Ability: Torrent  
+Level: 43  
+Naughty Nature  
+- Hydro Cannon  
+- Razor Shell  
+- Fury Cutter  
+- Cut
+
+Empoleon  
+Ability: Torrent  
+Level: 43  
+Lonely Nature  
+- Hydro Cannon  
+- Steel Wing  
+- Aqua Jet  
+- Pluck

@@ -1,0 +1,68 @@
+Credit: Cazenovia
+---
+Name: Wally
+Class: 272-Pokémon Trainer
+Item 1: Full Restore
+Item 2: Full Restore
+Item 3: Full Restore
+---
+Pokemon: 6
+
+Roserade (F) @ White Herb  
+Ability: Natural Cure  
+Level: 65  
+Jolly Nature  
+IVs: 0 Atk  
+- Attract  
+- Leaf Storm  
+- Sludge Bomb  
+- Toxic Spikes  
+
+Lopunny (F)  
+Ability: Limber  
+Level: 66  
+Adamant Nature  
+- Attract  
+- Headbutt  
+- High Jump Kick  
+- Fire Punch  
+
+Meloetta  
+Ability: Serene Grace  
+Level: 65  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Hyper Voice  
+- Psychic  
+- Focus Blast  
+
+Mawile (F)  
+Ability: Intimidate  
+Level: 65  
+Adamant Nature  
+- Attract  
+- Iron Head  
+- Play Rough  
+- Knock Off  
+
+Vaporeon (F) @ Chesto Berry  
+Ability: Water Absorb  
+Level: 65  
+Bold Nature  
+IVs: 0 Atk  
+- Attract  
+- Scald  
+- Ice Beam  
+- Rest  
+
+Gardevoir (F) @ Gardevoirite  
+Ability: Synchronize  
+Level: 69  
+Timid Nature  
+IVs: 0 Atk  
+- Attract  
+- Hyper Voice  
+- Psyshock  
+- Focus Blast  
+

@@ -1,0 +1,13 @@
+Credit: Cazenovia
+---
+Name: Rick
+Class: 130-Bug Catcher
+---
+Pokemon: 1
+
+Combee  
+Ability: Honey Gather  
+Level: 6  
+Hasty Nature  
+- Gust  
+- Bug Bite

@@ -1,0 +1,25 @@
+Credit: Cazenovia
+---
+Name: Hideki
+Class: 146-Black Belt
+Item 1: Full Restore
+---
+Pokemon: 2
+
+Machamp  
+Ability: Guts  
+Level: 55  
+Adamant Nature  
+- Focus Energy  
+- Karate Chop  
+- Foresight  
+- Low Sweep
+
+Primeape  
+Ability: Anger Point  
+Level: 55  
+Adamant Nature  
+- Focus Energy  
+- Karate Chop  
+- Foresight  
+- Low Sweep

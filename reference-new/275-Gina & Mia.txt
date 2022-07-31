@@ -1,0 +1,20 @@
+Credit: Cazenovia
+---
+Name: Pain & Suffering
+Class: 133-Twins
+---
+Pokemon: 2
+
+Chatot @ Choice Scarf  
+Ability: Keen Eye  
+Level: 13  
+Timid Nature  
+IVs: 0 Atk  
+- Boomburst  
+
+Mr. Mime  
+Ability: Soundproof  
+Level: 13  
+Calm Nature  
+IVs: 0 Atk  
+- Helping Hand  

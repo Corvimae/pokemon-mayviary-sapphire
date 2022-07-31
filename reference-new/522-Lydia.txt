@@ -1,0 +1,42 @@
+Credit: Cazenovia
+---
+Name: Bliss
+Class: 153-Pokémon Breeder
+---
+Pokemon: 6
+
+Blissey  
+Ability: Serene Grace  
+Level: 75  
+Hasty Nature  
+- Healing Wish  
+
+Blissey  
+Ability: Serene Grace  
+Level: 75  
+Hasty Nature  
+- Healing Wish  
+
+Blissey  
+Ability: Serene Grace  
+Level: 75  
+Hasty Nature  
+- Healing Wish  
+
+Blissey  
+Ability: Serene Grace  
+Level: 75  
+Hasty Nature  
+- Healing Wish  
+
+Blissey  
+Ability: Serene Grace  
+Level: 75  
+Hasty Nature  
+- Healing Wish  
+
+Blissey  
+Ability: Serene Grace  
+Level: 75  
+Hasty Nature  
+- Healing Wish  

@@ -1,0 +1,15 @@
+Credit: Cazenovia
+---
+Name: Jaylin
+Class: 227-Street Thug
+---
+Pokemon: 1
+
+Trevenant @ Sitrus Berry  
+Ability: Harvest  
+Level: 31  
+IVs: 0 Atk  
+- Shadow Ball  
+- Energy Ball  
+- Dark Pulse  
+- Will-O-Wisp

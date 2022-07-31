@@ -1,0 +1,24 @@
+Credit: Cazenovia
+---
+Name: Irene
+Class: 158-Picnicker
+---
+Pokemon: 2
+
+Ninjask  
+Ability: Speed Boost  
+Level: 24  
+Adamant Nature  
+- Protect  
+- Fury Cutter  
+- Aerial Ace  
+- Slash
+
+Shedinja @ Focus Sash  
+Ability: Wonder Guard  
+Level: 24  
+Hasty Nature  
+- Shadow Sneak  
+- X-Scissor  
+- Shadow Claw  
+- Swords Dance

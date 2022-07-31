@@ -1,0 +1,25 @@
+Credit: Cazenovia
+---
+Name: Wally
+Class: 192-Pokémon Trainer
+Item 1: Super Potion
+---
+Pokemon: 2
+
+Kirlia (F)  
+Ability: Synchronize  
+Level: 20  
+Timid Nature  
+- Attract  
+- Draining Kiss  
+- Confusion  
+- Charge Beam  
+
+Buneary (F)  
+Ability: Limber  
+Level: 20  
+Adamant Nature  
+- Attract  
+- Headbutt  
+- Rock Smash  
+- Fire Punch  

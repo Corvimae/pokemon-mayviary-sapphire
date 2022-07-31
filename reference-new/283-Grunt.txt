@@ -1,0 +1,24 @@
+Credit: Cazenovia
+---
+Name: Grunt
+Class: 137-Team Aqua
+---
+Pokemon: 2
+
+Feraligatr  
+Ability: Torrent  
+Level: 43  
+Brave Nature  
+- Hydro Cannon  
+- Crunch  
+- Waterfall  
+- Chip Away
+
+Blastoise @ Power Herb  
+Ability: Torrent  
+Level: 43  
+Modest Nature  
+- Hydro Cannon  
+- Skull Bash  
+- Flash Cannon  
+- Water Pulse

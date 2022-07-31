@@ -1,0 +1,16 @@
+Credit: Cazenovia
+---
+Name: Hideki
+Class: 146-Black Belt
+Item 1: Full Restore
+---
+Pokemon: 1
+
+Machoke  
+Ability: Guts  
+Level: 35  
+Adamant Nature  
+- Focus Energy  
+- Karate Chop  
+- Foresight  
+- Low Sweep

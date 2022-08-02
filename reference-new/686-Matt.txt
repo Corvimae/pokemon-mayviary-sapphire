@@ -1,0 +1,44 @@
+Credit: Etchy
+---
+Name: Etch
+Class: 175-Aqua Admin
+Item 1: Full Restore
+Item 2: Full Restore
+---
+Pokemon: 4
+
+Zoroark @ Choice Specs  
+Ability: Illusion  
+Level: 79  
+Modest Nature  
+- Night Daze  
+- Extrasensory  
+- Grass Knot  
+- Hyper Voice  
+
+Blastoise @ Blastoisinite  
+Ability: Torrent  
+Level: 79  
+Docile Nature  
+- Surf  
+- Dragon Pulse  
+- Mirror Coat  
+- Aqua Jet  
+
+Skuntank @ Air Balloon  
+Ability: Stench  
+Level: 79  
+Adamant Nature  
+- Crunch  
+- Pursuit  
+- Poison Jab  
+- Flamethrower  
+
+Amoonguss @ Black Sludge  
+Ability: Effect Spore  
+Level: 79  
+Calm Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Clear Smog  

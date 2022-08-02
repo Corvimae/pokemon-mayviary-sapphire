@@ -1,0 +1,35 @@
+Credit: Etchy
+---
+Name: Etch
+Class: 175-Aqua Admin
+Item 1: Full Restore
+Item 2: Full Restore
+---
+Pokemon: 3
+
+Absol @ Absolite  
+Ability: Super Luck  
+Level: 82  
+Jolly Nature  
+- Perish Song  
+- Night Slash  
+- Play Rough  
+- Pursuit  
+
+Crawdaunt @ Leftovers  
+Ability: Adaptability  
+Level: 82  
+Adamant Nature  
+- Crabhammer  
+- Crunch  
+- Dragon Dance  
+- Substitute  
+
+Darkrai @ Bright Powder  
+Ability: Bad Dreams  
+Level: 82  
+Docile Nature  
+- Dark Void  
+- Dark Pulse  
+- Sucker Punch  
+- Substitute  

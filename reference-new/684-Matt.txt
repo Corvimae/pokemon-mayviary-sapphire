@@ -1,0 +1,41 @@
+Credit: Etchy
+---
+Name: Etch
+Class: 175-Aqua Admin
+Item 1: Full Restore
+Item 2: Full Restore
+---
+Pokemon: 4
+
+Azumerrill (Azumarill) @ Focus Sash  
+Ability: Huge Power  
+Level: 57  
+Adamant Nature  
+- Ice Punch  
+- Play Rough  
+- Aqua Jet  
+- Waterfall  
+
+Weavile @ Leftovers  
+Ability: Pressure  
+Level: 57  
+Adamant Nature  
+- Icicle Crash  
+- Fake Out  
+- Knock Off  
+- Shadow Claw  
+
+Milotic (F) @ Focus Sash  
+Ability: Marvel Scale  
+Level: 57  
+Bold Nature  
+- Mirror Coat  
+
+Gyarados @ Gyaradosite  
+Ability: Intimidate  
+Level: 57  
+Jolly Nature  
+- Earthquake  
+- Protect  
+- Stone Edge  
+- Crunch  

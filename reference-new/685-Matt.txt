@@ -1,0 +1,41 @@
+Credit: Etchy
+---
+Name: Etch
+Class: 175-Aqua Admin
+Item 1: Full Restore
+Item 2: Full Restore
+---
+Pokemon: 4
+
+Zoroark @ Choice Specs  
+Ability: Illusion  
+Level: 57  
+Modest Nature  
+- Night Daze  
+- Extrasensory  
+- Grass Knot  
+- Hyper Voice  
+
+Tyranitar @ Tyranitarite  
+Ability: Sand Stream  
+Level: 57  
+Adamant Nature  
+- Earthquake  
+- Crunch  
+- Dragon Claw  
+- Roar  
+
+Skuntank @ Choice Scarf  
+Ability: Stench  
+Level: 57  
+Adamant Nature  
+- Explosion  
+
+Milotic (F) @ Flame Orb  
+Ability: Marvel Scale  
+Level: 57  
+Timid Nature  
+- Confuse Ray  
+- Recover  
+- Ice Beam  
+- Surf  

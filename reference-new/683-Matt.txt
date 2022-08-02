@@ -1,0 +1,35 @@
+Credit: Etchy
+---
+Name: Etch
+Class: 175-Aqua Admin
+Item 1: Full Restore
+Item 2: Full Restore
+---
+Pokemon: 3
+
+Sableye @ Sablenite  
+Ability: Keen Eye  
+Level: 45  
+Timid Nature  
+- Foul Play  
+- Fake Out  
+- Will-O-Wisp  
+- Recover  
+
+Spiritomb @ Leftovers  
+Ability: Pressure  
+Level: 45  
+Timid Nature  
+- Destiny Bond  
+- Shadow Ball  
+- Dark Pulse  
+- Curse  
+
+Empoleon @ Focus Sash  
+Ability: Torrent  
+Level: 45  
+Modest Nature  
+- Scald  
+- Aqua Jet  
+- Roar  
+- Flash Cannon  

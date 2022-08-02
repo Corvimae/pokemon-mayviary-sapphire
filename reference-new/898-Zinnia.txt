@@ -1,0 +1,58 @@
+Credit: bageldotpng
+---
+Name: Olive
+Class: 267-Pokémon Trainer
+---
+Pokemon: 5
+
+Ferrothorn @ Leftovers
+Ability: Iron Barbs
+Level: 82
+EVs: 252 HP / 4 Atk / 252 Def
+Relaxed Nature
+IVs: 0 Spe
+- Stealth Rock
+- Leech Seed
+- Power Whip
+- Gyro Ball
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+Level: 82
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Swords Dance
+- Earthquake
+- Knock Off
+- Brick Break
+
+Weavile
+Ability: Pickpocket
+Level: 82
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Swords Dance
+- Icicle Crash
+- Knock Off
+- X-Scissor
+
+Rotom-Wash @ Life Orb
+Ability: Levitate
+Level: 82
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Hydro Pump
+- Discharge
+- Dark Pulse
+- Volt Switch
+
+Lopunny @ Lopunnite
+Ability: Limber
+Level: 82
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Fake Out
+- Return
+- High Jump Kick
+- Thunder Punch

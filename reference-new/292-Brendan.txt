@@ -1,0 +1,60 @@
+Credit: Sparkle
+---
+Name: S. Gungathan
+Class: 142-Tuber
+---
+Pokemon: 6
+
+Armaldo @ Life Orb
+Ability: Swift Swim
+Level: 49
+Jolly Nature
+- Rock Slide
+- Earthquake
+- X-Scissor
+- Stealth Rock
+
+Omastar @ Focus Sash
+Ability: Swift Swim
+Level: 49
+Timid Nature
+- Surf
+- Ice Beam
+- Shell Smash
+- Earth Power
+
+Kabutops @ Life Orb
+Ability: Swift Swim
+Level: 49
+Adamant Nature
+- Waterfall
+- Rock Slide
+- Brick Break
+- X-Scissor
+
+Mawile @ Mawilite
+Ability: Intimidate
+Level: 49
+Adamant Nature
+- Iron Head
+- Brick Break
+- Play Rough
+- Sucker Punch
+
+Cradily @ Leftovers
+Ability: Storm Drain
+Level: 49
+Modest Nature
+- Giga Drain
+- Ancient Power
+- Recover
+- Sludge Bomb
+
+Lanturn @ Life Orb
+Ability: Volt Absorb
+Level: 49
+Rash Nature
+- Hydro Pump
+- Thunder
+- Ice Beam
+- Sucker Punch

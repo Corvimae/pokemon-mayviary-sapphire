@@ -1,0 +1,12 @@
+Credit: Sparkle
+---
+Name: S. Gungathan
+Class: 142-Tuber
+---
+Pokemon: 1
+
+Chinchou @ Leftovers
+Ability: Water Absorb
+Level: 8
+Bold Nature
+- Confuse Ray

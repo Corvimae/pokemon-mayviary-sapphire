@@ -1,0 +1,57 @@
+Credit: Sparkle
+---
+Name: S. Gungathan
+Class: 142-Tuber
+---
+Pokemon: 6
+
+Aerodactyl @ Power Herb
+Ability: Unnerve
+Level: 59
+Adamant Nature
+- Sky Attack
+- Rock Slide
+- Earthquake
+- Stealth Rock
+
+Flareon @ Choice Band
+Ability: Flash Fire
+Level: 59
+Adamant Nature
+- Flare Blitz
+
+Venusaur @ Venusaurite
+Ability: Chlorophyll
+Level: 59
+Quiet Nature
+- Giga Drain
+- Sludge Bomb
+- Earthquake
+- Synthesis
+
+Lapras @ Chesto Berry
+Ability: Shell Armor
+Level: 59
+Adamant Nature
+- Dragon Dance
+- Rest
+- Waterfall
+- Ice Shard
+
+Regigigas @ Sitrus Berry
+Ability: Slow Start
+Level: 59
+Adamant Nature
+- Double Team
+- Earthquake
+- Return
+- Knock Off
+
+Lanturn @ Leftovers
+Ability: Volt Absorb
+Level: 59
+Modest Nature
+- Thunder Wave
+- Confuse Ray
+- Whirlpool
+- Substitute

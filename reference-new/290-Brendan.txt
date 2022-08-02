@@ -1,0 +1,60 @@
+Credit: Sparkle
+---
+Name: S. Gungathan
+Class: 142-Tuber
+---
+Pokemon: 6
+
+Nosepass @ Eviolite
+Ability: Sturdy
+Level: 30
+Calm Nature
+IVs: 0 Atk
+- Stealth Rock
+- Pain Split
+- Thunder Wave
+- Power Gem
+
+Misdreavus (F) @ Eviolite
+Ability: Levitate
+Level: 30
+Timid Nature
+IVs: 0 Atk
+- Hex
+- Power Gem
+- Dazzling Gleam
+- Calm Mind
+
+Parasect @ Coba Berry
+Ability: Effect Spore
+Level: 30
+Impish Nature
+- Spore
+- Leech Seed
+- Substitute
+- X-Scissor
+
+Spheal @ Eviolite
+Ability: Thick Fat
+Level: 35
+Bold Nature
+IVs: 0 Atk
+- Sheer Cold
+
+Feraligatr @ Life Orb
+Ability: Sheer Force
+Level: 30
+Mild Nature
+- Water Pulse
+- Icy Wind
+- Ancient Power
+- Aqua Jet
+
+Lanturn @ Leftovers
+Ability: Volt Absorb
+Level: 30
+Impish Nature
+- Thunder Wave
+- Confuse Ray
+- Substitute
+- Dive

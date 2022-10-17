@@ -1,0 +1,28 @@
+Credit: Cazenovia
+---
+Name: Dwayne
+Class: 141-Sailor
+---
+Pokemon: 2
+
+Dratini  
+Ability: Shed Skin  
+Level: 19  
+- Outrage  
+- Waterfall  
+- Draco Meteor  
+- Extreme Speed  
+
+Goomy @ Assault Vest  
+Ability: Sap Sipper  
+Level: 19  
+EVs: 4 HP / 236 SpA / 248 SpD / 20 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Thunderbolt  
+- Sludge Wave  
+- Water Pulse  
+
+
+

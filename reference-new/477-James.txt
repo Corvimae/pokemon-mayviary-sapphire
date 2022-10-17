@@ -1,0 +1,27 @@
+Credit: Cazenovia
+---
+Name: James
+Class: 130-Bug Catcher
+---
+Pokemon: 2
+
+Larvesta  
+Ability: Swarm  
+Level: 14  
+EVs: 8 HP / 8 Def / 248 SpA / 236 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Incinerate  
+- Struggle Bug  
+- Giga Drain  
+
+Scyther  
+Ability: Technician  
+Level: 14  
+EVs: 228 Atk / 8 Def / 36 SpD / 236 Spe  
+Jolly Nature  
+- Bug Bite  
+- Aerial Ace  
+- Thief  
+
+

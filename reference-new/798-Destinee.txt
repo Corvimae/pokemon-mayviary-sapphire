@@ -1,0 +1,17 @@
+Credit: Cazenovia
+---
+Name: Destinee
+Class: 228-Delinquent
+---
+Pokemon: 1
+
+Deino @ Wide Lens  
+Ability: Hustle  
+Level: 21  
+EVs: 16 HP / 252 Atk / 240 Spe  
+Adamant Nature  
+- Bite  
+- Outrage  
+- Fire Fang  
+- Dragon Rage
+

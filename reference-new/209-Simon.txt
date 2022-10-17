@@ -1,0 +1,17 @@
+Credit: Cazenovia
+---
+Name: Simon
+Class: 176-Tuber
+---
+Pokemon: 1
+
+Gible @ Life Orb  
+Ability: Rough Skin 
+Level: 21  
+EVs: 4 HP / 252 Atk / 248 Spe  
+Adamant Nature  
+- Earthquake  
+- Dragon Claw  
+- Stone Edge  
+- Dragon Rage
+

@@ -1,4 +1,4 @@
-[Begin] Importing 205 Trainer Files!
+[Begin] Importing 221 Trainer Files!
 
 How to navigate this file:
 Ctrl + F and search for the following important tags
@@ -91,6 +91,9 @@ Ctrl + F and search for the following important tags
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\077-Brice.txt
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\077-Brice.txt
 
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\078-Trent.txt
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\078-Trent.txt
+
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\080-Carol.txt
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\080-Carol.txt
 
@@ -150,6 +153,12 @@ Ctrl + F and search for the following important tags
 
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\198-Calvin.txt
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\198-Calvin.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\208-Dwayne.txt
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\208-Dwayne.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\209-Simon.txt
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\209-Simon.txt
 
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\210-Eddie.txt
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\210-Eddie.txt
@@ -250,6 +259,9 @@ Ctrl + F and search for the following important tags
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\301-Allen.txt
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\301-Allen.txt
 
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\302-James.txt
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\302-James.txt
+
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\308-Irene.txt
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\308-Irene.txt
 
@@ -294,6 +306,18 @@ Ctrl + F and search for the following important tags
 
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\389-Wilton.txt
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\389-Wilton.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\397-Trent.txt
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\397-Trent.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\398-Trent.txt
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\398-Trent.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\399-Trent.txt
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\399-Trent.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\400-Trent.txt
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\400-Trent.txt
 
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\401-Steve.txt
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\401-Steve.txt
@@ -379,8 +403,23 @@ Ctrl + F and search for the following important tags
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\476-Diana.txt
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\476-Diana.txt
 
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\477-James.txt
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\477-James.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\478-James.txt
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\478-James.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\479-James.txt
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\479-James.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\480-James.txt
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\480-James.txt
+
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\481-Nicolas.txt
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\481-Nicolas.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\515-Johanna.txt
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\515-Johanna.txt
 
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\518-Wally.txt
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\518-Wally.txt
@@ -604,14 +643,23 @@ Ctrl + F and search for the following important tags
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\736-Jael & Kael.txt
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\736-Jael & Kael.txt
 
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\764-Egon.txt
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\764-Egon.txt
+
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\765-Theodore.txt
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\765-Theodore.txt
 
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\769-Nellie.txt
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\769-Nellie.txt
 
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\789-Blair.txt
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\789-Blair.txt
+
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\790-Jaylin.txt
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\790-Jaylin.txt
+
+[Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\798-Destinee.txt
+[SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\798-Destinee.txt
 
 [Import] Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\828-Marlene.txt
 [SUCCESS] Finished importing Trainer File: D:\Personal\Pokemon Running\pokemon-mayviary-sapphire\reference-new\828-Marlene.txt

@@ -1,0 +1,37 @@
+Credit: Cazenovia
+---
+Name: Trent
+Class: 156-Hiker
+---
+Pokemon: 3
+
+Aron  
+Ability: Sturdy  
+Level: 20  
+EVs: 236 HP / 236 Atk / 36 Def  
+Adamant Nature  
+- Rock Tomb  
+- Iron Head  
+- Secret Power  
+- Bulldoze  
+
+Nosepass @ Custap Berry  
+Ability: Sturdy  
+Level: 20  
+EVs: 236 HP / 236 Atk / 36 Def  
+Adamant Nature  
+- Rock Tomb  
+- Fire Punch  
+- Thunder Punch  
+- Ice Punch  
+
+Shieldon  
+Ability: Sturdy  
+Level: 20  
+EVs: 236 HP / 240 Atk / 32 Def  
+Adamant Nature  
+- Rock Tomb  
+- Iron Head  
+- Secret Power  
+- Bulldoze  
+

@@ -1,0 +1,17 @@
+Credit: Cazenovia
+---
+Name: Johanna
+Class: 154-Beauty
+---
+Pokemon: 1
+
+Beldum @ Metal Coat  
+Ability: Clear Body  
+Level: 21  
+EVs: 236 Atk / 20 Def / 248 Spe  
+Adamant Nature  
+- Headbutt  
+- Iron Head  
+- Zen Headbutt  
+- Iron Defense
+

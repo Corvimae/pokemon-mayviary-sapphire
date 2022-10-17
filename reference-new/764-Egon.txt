@@ -1,0 +1,12 @@
+Credit: EpicYoshiMaster
+---
+Name: Yoshi
+Class: 163-Bird Keeper
+---
+Pokemon: 1
+
+Altaria @ Red Card  
+Ability: Cloud Nine  
+Level: 70  
+Mild Nature  
+- Draco Meteor 

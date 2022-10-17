@@ -1,0 +1,37 @@
+Credit: Cazenovia
+---
+Name: Trent
+Class: 156-Hiker
+---
+Pokemon: 3
+
+Lairon  
+Ability: Sturdy  
+Level: 34  
+EVs: 244 HP / 252 Atk / 8 SpD / 4 Spe  
+Adamant Nature  
+- Rock Slide  
+- Iron Head  
+- Secret Power  
+- Dig  
+
+Probopass @ Custap Berry  
+Ability: Sturdy  
+Level: 34  
+EVs: 244 HP / 16 Atk / 244 SpA / 4 Spe  
+Mild Nature  
+- Rock Slide  
+- Volt Switch  
+- Flash Cannon  
+- Ice Punch  
+
+Bastiodon  
+Ability: Sturdy  
+Level: 34  
+EVs: 244 HP / 252 Atk / 8 SpD / 4 Spe  
+Adamant Nature  
+- Rock Slide  
+- Iron Head  
+- Secret Power  
+- Dig  
+

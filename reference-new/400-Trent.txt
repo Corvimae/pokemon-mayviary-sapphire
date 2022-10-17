@@ -1,0 +1,38 @@
+Credit: Cazenovia
+---
+Name: Trent
+Class: 156-Hiker
+---
+Pokemon: 3
+
+Aggron @ Custap Berry  
+Ability: Sturdy  
+Level: 68  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Stone Edge  
+- Metal Burst  
+- Body Slam  
+- Earthquake  
+
+Probopass  
+Ability: Sturdy  
+Level: 68  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Power Gem  
+- Dazzling Gleam  
+- Flash Cannon  
+- Earth Power  
+
+Bastiodon  
+Ability: Sturdy  
+Level: 68  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Stone Edge  
+- Metal Burst  
+- Body Slam  
+- Earthquake  
+

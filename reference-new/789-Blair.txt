@@ -1,0 +1,27 @@
+Credit: Cazenovia
+---
+Name: Blair
+Class: 227-Street Thug
+---
+Pokemon: 2
+
+Larvitar  
+Ability: Guts  
+Level: 18  
+EVs: 232 Atk / 32 SpD / 240 Spe  
+Adamant Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Dance  
+- Iron Head
+
+Bagon @ Life Orb  
+Ability: Sheer Force  
+Level: 21  
+EVs: 12 HP / 248 Atk / 8 Def / 240 Spe  
+Jolly Nature  
+- Dragon Rush  
+- Rock Slide  
+- Hone Claws  
+- Fire Fang
+
